@@ -8,3 +8,4 @@ A showcase of some work I have done in R
 * Integrated the data gathered with an address-to-geolocation API to retrieve the longitude and latitude coordinates needed to map the data 
 * Mapped the data visually, using ggplot2 and the maps library
 
+![](https://github.com/Ciaran-Mulqueen/Ciaran-Portfolio/blob/main/images/Persimmon%20map.png)
