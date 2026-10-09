@@ -1,0 +1,74 @@
+[
+ {
+  "year": 2019,
+  "decided": 396,
+  "approved": 343,
+  "approval_rate": 86.6,
+  "median_days": 200.0,
+  "median_days_150plus": 306.0,
+  "partial": false
+ },
+ {
+  "year": 2020,
+  "decided": 427,
+  "approved": 359,
+  "approval_rate": 84.1,
+  "median_days": 247.0,
+  "median_days_150plus": 384.0,
+  "partial": false
+ },
+ {
+  "year": 2021,
+  "decided": 443,
+  "approved": 315,
+  "approval_rate": 71.1,
+  "median_days": 316.0,
+  "median_days_150plus": 511.0,
+  "partial": false
+ },
+ {
+  "year": 2022,
+  "decided": 356,
+  "approved": 248,
+  "approval_rate": 69.7,
+  "median_days": 321.0,
+  "median_days_150plus": 437.5,
+  "partial": false
+ },
+ {
+  "year": 2023,
+  "decided": 292,
+  "approved": 192,
+  "approval_rate": 65.8,
+  "median_days": 378.0,
+  "median_days_150plus": 587.0,
+  "partial": false
+ },
+ {
+  "year": 2024,
+  "decided": 241,
+  "approved": 170,
+  "approval_rate": 70.5,
+  "median_days": 386.0,
+  "median_days_150plus": 499.0,
+  "partial": false
+ },
+ {
+  "year": 2025,
+  "decided": 210,
+  "approved": 162,
+  "approval_rate": 77.1,
+  "median_days": 412.0,
+  "median_days_150plus": 534.0,
+  "partial": false
+ },
+ {
+  "year": 2026,
+  "decided": 160,
+  "approved": 126,
+  "approval_rate": 78.8,
+  "median_days": 433.0,
+  "median_days_150plus": 514.0,
+  "partial": true
+ }
+]

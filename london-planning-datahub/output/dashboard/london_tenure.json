@@ -1,0 +1,74 @@
+[
+ {
+  "year": 2019,
+  "homes": 52533,
+  "market_sale_pct": 58.7,
+  "market_rent_btr_pct": 2.4,
+  "affordable_pct": 28.0,
+  "other_pct": 10.9,
+  "partial": false
+ },
+ {
+  "year": 2020,
+  "homes": 45480,
+  "market_sale_pct": 43.8,
+  "market_rent_btr_pct": 11.4,
+  "affordable_pct": 29.4,
+  "other_pct": 15.4,
+  "partial": false
+ },
+ {
+  "year": 2021,
+  "homes": 63922,
+  "market_sale_pct": 42.7,
+  "market_rent_btr_pct": 12.9,
+  "affordable_pct": 27.4,
+  "other_pct": 17.0,
+  "partial": false
+ },
+ {
+  "year": 2022,
+  "homes": 44814,
+  "market_sale_pct": 38.8,
+  "market_rent_btr_pct": 9.9,
+  "affordable_pct": 25.0,
+  "other_pct": 26.4,
+  "partial": false
+ },
+ {
+  "year": 2023,
+  "homes": 41031,
+  "market_sale_pct": 43.1,
+  "market_rent_btr_pct": 24.4,
+  "affordable_pct": 21.3,
+  "other_pct": 11.2,
+  "partial": false
+ },
+ {
+  "year": 2024,
+  "homes": 49643,
+  "market_sale_pct": 26.3,
+  "market_rent_btr_pct": 41.5,
+  "affordable_pct": 20.0,
+  "other_pct": 12.2,
+  "partial": false
+ },
+ {
+  "year": 2025,
+  "homes": 31926,
+  "market_sale_pct": 27.8,
+  "market_rent_btr_pct": 39.8,
+  "affordable_pct": 19.3,
+  "other_pct": 13.1,
+  "partial": false
+ },
+ {
+  "year": 2026,
+  "homes": 15530,
+  "market_sale_pct": 32.4,
+  "market_rent_btr_pct": 44.7,
+  "affordable_pct": 15.6,
+  "other_pct": 7.4,
+  "partial": true
+ }
+]

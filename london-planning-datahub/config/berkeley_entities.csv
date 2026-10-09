@@ -1,0 +1,504 @@
+entity_name,company_number,type,ownership_pct,brand_or_division,ch_status,notes
+The Berkeley Group Holdings plc,05172586,listed parent,,Berkeley Group,active,prev: SANDNUMBER LIMITED (07 Jul 2004 - 19 Aug 2004); SANDNUMBER LIMITED (07 Jul 2004 - 19 Aug 2004)
+Berkeley Two Hundred and Sixty-Five LLP,OC386469,JV,50,Berkeley (JV with Gower Place Investments),dissolved,in AR 2025 only | CH dissolved | prev: ST KATHARINE HOMES LLP (08 Jul 2013 - 31 Jan 2025)
+STKM Limited,08601364,JV,50,Berkeley (JV with Gower Place Investments),dissolved,in AR 2024 only | CH dissolved
+St Katharine Homes LLP,OC386469,JV,50,Berkeley (JV with Gower Place Investments),dissolved,in AR 2024 only | CH dissolved | renamed Berkeley Two Hundred and Sixty-Five LLP (2025); dissolved Feb 2026 | prev: ST KATHARINE HOMES LLP (08 Jul 2013 - 31 Jan 2025)
+Berkeley Latimer Estates Limited,08161672,JV,50,Berkeley (JV with Latimer/Clarion),active,prev: MAYFIELD MARKET TOWNS LIMITED (21 Aug 2012 - 12 Jul 2023); ENSCO 946 LIMITED (30 Jul 2012 - 21 Aug 2012)
+Mayflower Residential Limited,11193327,JV,50 (100% of Berkeley Latimer Estates Ltd),Berkeley (JV with Latimer/Clarion),active,
+Berkeley Carlton Holdings Limited,03815667,JV,50,Berkeley (JV with Structadene),active,
+Diniwe One Limited,03815674,JV,50,Berkeley (JV with Structadene),dissolved,in AR 2024/2025 only | CH dissolved
+Diniwe Two Limited,03815690,JV,50,Berkeley (JV with Structadene),dissolved,in AR 2024/2025 only | CH dissolved
+Thirlstone (JLP) Limited,03710524,subsidiary,100,Berkeley (Thirlstone legacy),active,prev: BERKELEY FOUR LIMITED (09 Feb 1999 - 25 Jan 2000)
+Thirlstone Commercial Limited,02510615,subsidiary,100,Berkeley (Thirlstone legacy),active,
+Thirlstone Homes (Western) Limited,03713171,subsidiary,100,Berkeley (Thirlstone legacy),active,agent of Berkeley Twenty Limited | prev: BERKELEY HOMES (WESTERN) LIMITED (12 Feb 1999 - 29 Jul 1999)
+Thirlstone Homes Limited,02473287,subsidiary,100,Berkeley (Thirlstone legacy),active,agent of Berkeley Twenty Limited | prev: WYKEDALE LIMITED (22 Feb 1990 - 01 Jun 1990)
+Thirlstone plc,02513432,subsidiary,100,Berkeley (Thirlstone legacy),active,prev: THE THIRLSTONE GROUP LIMITED (19 Jun 1990 - 28 Oct 1999)
+Berkeley Commercial Developments Limited,01861151,subsidiary,100,Berkeley Commercial,active,prev: BERKELEY HOMES (INVESTMENTS) LIMITED (25 Jan 1985 - 20 Jun 1986); INTERCEDE 240 LIMITED (05 Nov 1984 - 25 Jan 1985)
+Berkeley Commercial Investments Limited,01454067,subsidiary,100,Berkeley Commercial,active,prev: BERKELEY HOMES (INVESTMENTS) LIMITED (20 Jun 1986 - 24 Mar 1995); BERKELEY HOMES (SOUTHERN) LIMITED (15 Oct 1979 - 20 Jun 1986)
+Berkeley Commercial Limited,02489309,subsidiary,100,Berkeley Commercial,active,prev: BERKELEY COMMERCIAL (INVESTMENTS) LIMITED (22 Jun 1990 - 24 Mar 1995); INTERCEDE 805 LIMITED (05 Apr 1990 - 22 Jun 1990)
+Ancestral Homes Limited,03297712,subsidiary,100,Berkeley Group,active,
+Aragon Investments Limited,OE026651,subsidiary (non-UK),100,Berkeley Group,registered,
+BH (City Forum) Limited,04165791,subsidiary,100,Berkeley Group,active,"City Forum = 250 City Road, Islington EC1 | prev: LS CITY FORUM LIMITED (15 Dec 2004 - 02 Jun 2011); SHELFCO (NO.2315) LIMITED (22 Feb 2001 - 05 Mar 2001)"
+BWW Management Limited,05581860,subsidiary,100,Berkeley Group,active,
+Berkeley (Carnwath Road) Limited,OE021202,subsidiary (non-UK),100,Berkeley Group,registered,
+Berkeley (Hong Kong) Limited,,subsidiary (non-UK),100,Berkeley Group,,
+Berkeley (Inner-City Partnerships) Limited,01454030,subsidiary,100,Berkeley Group,active,prev: BERKELEY (INTER-CITY PARTNERSHIPS) LIMITED. (17 Jun 1985 - 15 Aug 1985); BERKELEY HOMES (COMMERCIAL) LIMITED (15 Oct 1979 - 17 Jun 1985)
+Berkeley (SQP) Limited,05383563,subsidiary,100,Berkeley Group,active,prev: BERKELEY EIGHTY-EIGHT LIMITED (04 Mar 2005 - 16 May 2015)
+Berkeley (Virginia Water) Limited,03396465,subsidiary,100,Berkeley Group,active,prev: BERKELEY CHELSFIELD (VIRGINIA WATER) LIMITED (23 Sep 1997 - 26 Jun 2003); LISACOOL LIMITED (02 Jul 1997 - 23 Sep 1997)
+Berkeley Affordable Homes Limited,02667206,subsidiary,100,Berkeley Group,active,prev: A.N.M. GARAGES LIMITED (29 Nov 1991 - 26 Feb 1993)
+Berkeley Asset MSA Limited,02981113,subsidiary,100,Berkeley Group,active,
+Berkeley College Homes Limited,04732908,subsidiary,100,Berkeley Group,active,prev: BERKELEY FIRST LIMITED (13 Apr 2003 - 08 Jan 2004)
+Berkeley Community Villages Limited,04552410,subsidiary,100,Berkeley Group,active,
+Berkeley Construction Limited,05383585,subsidiary,100,Berkeley Group,active,prev: BERKELEY NINETY-TWO LIMITED (04 Mar 2005 - 11 Jul 2005)
+Berkeley Developments Limited,02443828,subsidiary,100,Berkeley Group,active,prev: INTERCEDE 765 LIMITED (17 Nov 1989 - 02 May 1990)
+Berkeley Eastoak Investments Limited,BR011314,subsidiary (CH only; not in AR list),,Berkeley Group,closed,CH closed
+Berkeley Eastoak Investments Limited,FC025775,subsidiary (CH only; not in AR list),,Berkeley Group,converted-closed,CH converted-closed
+Berkeley Eighteen Limited,04015065,subsidiary,100,Berkeley Group,active,
+Berkeley Eighty Limited,05232000,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley Eighty-One Limited,05232930,subsidiary,100,Berkeley Group,active,
+Berkeley Eighty-Three Limited,05383482,subsidiary,100,Berkeley Group,active,
+Berkeley Eighty-Two Limited,05316649,subsidiary,100,Berkeley Group,active,
+Berkeley Enterprises Limited,03367001,subsidiary,100,Berkeley Group,active,
+Berkeley Festival Development Limited,04056215,subsidiary,100,Berkeley Group,active,prev: INTERCEDE 1640 LIMITED (21 Aug 2000 - 23 Nov 2000)
+Berkeley Festival Hotels Limited,04552738,subsidiary,100,Berkeley Group,active,
+Berkeley Festival Investments Limited,03710452,subsidiary,100,Berkeley Group,active,
+Berkeley Festival Limited,04056216,subsidiary,100,Berkeley Group,active,prev: BERKELEY FESTIVAL HOTELS LIMITED (23 Nov 2000 - 23 Sep 2002); INTERCEDE 1641 LIMITED (21 Aug 2000 - 23 Nov 2000)
+Berkeley Fifty Limited,04646769,subsidiary,100,Berkeley Group,active,
+Berkeley Fifty-Eight Limited,04703694,subsidiary,100,Berkeley Group,active,
+Berkeley Fifty-Four Limited,04646735,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley Fifty-Nine Limited,04703707,subsidiary,100,Berkeley Group,active,
+Berkeley Fifty-One Limited,04646759,subsidiary,100,Berkeley Group,active,
+Berkeley Fifty-Seven Limited,04703686,subsidiary,100,Berkeley Group,active,
+Berkeley Fifty-Two Limited,04646754,subsidiary,100,Berkeley Group,active,
+Berkeley First Limited,05383567,subsidiary,100,Berkeley Group,active,prev: BERKELEY EIGHTY-SEVEN LIMITED (04 Mar 2005 - 04 Sep 2014)
+Berkeley Five Limited,03710531,subsidiary,100,Berkeley Group,active,
+Berkeley Forty Limited,04367052,subsidiary,100,Berkeley Group,active,
+Berkeley Forty-Eight Limited,04646782,subsidiary,100,Berkeley Group,active,in AR 2024 only | renamed; now ST KATHARINE HOMES LIMITED | prev: BERKELEY FORTY-EIGHT LIMITED (24 Jan 2003 - 31 Jan 2025)
+Berkeley Forty-Nine Limited,04646775,subsidiary,100,Berkeley Group,active,
+Berkeley Forty-Seven Limited,04646788,subsidiary,100,Berkeley Group,active,
+Berkeley Forty-Six Limited,04646794,subsidiary,100,Berkeley Group,active,
+Berkeley Forty-Three Limited,04367046,subsidiary,100,Berkeley Group,active,
+Berkeley Forty-Two Limited,04367048,subsidiary,100,Berkeley Group,active,
+Berkeley Fourteen Limited,01420806,subsidiary,100,Berkeley Group,active,prev: BERKELEY HOMES (CHILTERN) LIMITED (24 Jul 1986 - 14 May 1999); BERKELEY HOMES (HOME COUNTIES) LIMITED (17 May 1979 - 24 Jul 1986)
+Berkeley Group Pension Trustees Limited,03331217,subsidiary,100,Berkeley Group,active,
+Berkeley Group SIP Trustee Limited,04310349,subsidiary,100,Berkeley Group,active,prev: BERKELEY GROUP QUEST TRUSTEE LIMITED (24 Oct 2001 - 13 Apr 2004)
+Berkeley Group Services Limited,04310442,subsidiary,100,Berkeley Group,active,
+Berkeley Guarantee One Limited,04868973,subsidiary,100,Berkeley Group,active,prev: FOCUSLARK LIMITED (18 Aug 2003 - 21 Nov 2003)
+Berkeley Investments (IOM) Limited,,subsidiary (non-UK),100,Berkeley Group,,in AR 2024 only
+Berkeley London Residential Limited,04367051,subsidiary,100,Berkeley Group,active,prev: BERKELEY FORTY-ONE LIMITED (05 Feb 2002 - 28 Feb 2013)
+Berkeley Manhattan Limited,02843853,subsidiary,100,Berkeley Group,active,prev: CONNAUGHT HOMES LIMITED (22 Nov 1993 - 30 Mar 1994); LANGSTONES LIMITED (10 Aug 1993 - 22 Nov 1993)
+Berkeley Ninety-Eight Limited,05596586,subsidiary,100,Berkeley Group,active,
+Berkeley Ninety-Five Limited,05596756,subsidiary,100,Berkeley Group,active,
+Berkeley Ninety-Nine Limited,05596693,subsidiary,100,Berkeley Group,active,
+Berkeley Ninety-Seven Limited,05596788,subsidiary,100,Berkeley Group,active,
+Berkeley Ninety-Six Limited,05596705,subsidiary,100,Berkeley Group,active,
+Berkeley Number Four Limited,04311206,subsidiary,100,Berkeley Group,active,prev: BERKELEY (CANALSIDE) LIMITED (12 Dec 2003 - 18 Dec 2003); BERKELEY NUMBER FOUR LIMITED (22 Aug 2003 - 12 Dec 2003); CROSBY FOUR LIMITED (25 Oct 2001 - 22 Aug 2003)
+Berkeley Number Seven Limited,04311225,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved | prev: CROSBY SEVEN LIMITED (25 Oct 2001 - 22 Aug 2003)
+Berkeley Number Six Limited,04311212,subsidiary,100,Berkeley Group,active,prev: CROSBY SIX LIMITED (25 Oct 2001 - 22 Aug 2003)
+Berkeley One Hundred and Eight Limited,05596762,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Eighteen Limited,05756929,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Eighty Limited,06423165,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Eighty-Eight Limited,06423452,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Eighty-Five Limited,06423296,subsidiary,100,Berkeley Group,active,prev: BERKELEY ONE HUNDRED AND EIGHTY-FIVE LIMITED (09 Nov 2007 - 30 Jul 2008)
+Berkeley One Hundred and Eighty-Nine Limited,06423498,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Eighty-One Limited,06423172,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Eighty-Seven Limited,06423388,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Eighty-Two Limited,06423178,subsidiary,100,Berkeley Group,active,prev: BERKELEY ONE HUNDRED AND EIGHTY-TWO LIMITED (09 Nov 2007 - 30 Jul 2008)
+Berkeley One Hundred and Fifteen Limited,05756942,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Fifty Limited,06012920,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Fifty-Eight Limited,06013192,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley One Hundred and Fifty-Five Limited,06013129,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley One Hundred and Fifty-Four Limited,06013054,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley One Hundred and Fifty-Nine Limited,06013203,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley One Hundred and Fifty-One Limited,06012908,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Fifty-Seven Limited,06013144,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley One Hundred and Fifty-Six Limited,06013137,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley One Hundred and Fifty-Three Limited,06012969,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley One Hundred and Fifty-Two Limited,06012941,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Five Limited,05596698,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Forty Limited,06013827,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Forty-Eight Limited,06013840,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Forty-Five Limited,06013738,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Forty-Four Limited,06013757,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Forty-Nine Limited,06013838,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Forty-One Limited,06013825,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Forty-Seven Limited,06013841,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Forty-Six Limited,06013735,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Four Limited,05596730,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Fourteen Limited,05756989,subsidiary (CH only; not in AR list),,Berkeley Group,dissolved,CH dissolved
+Berkeley One Hundred and Nine Limited,05596697,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Ninety Limited,06540851,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Ninety-Eight Limited,06541204,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Ninety-Five Limited,06541133,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Ninety-Four Limited,06541115,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Ninety-Nine Limited,06541219,subsidiary,100,Berkeley Group,active,prev: ST WILLIAM HOMES LTD (05 Nov 2014 - 07 Nov 2014); BERKELEY ONE HUNDRED AND NINETY-NINE LIMITED (20 Mar 2008 - 05 Nov 2014)
+Berkeley One Hundred and Ninety-Seven Limited,06541181,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Ninety-Six Limited,06541163,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and One Limited,05596695,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Seven Limited,05596790,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Seventeen Limited,05756933,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Seventy-Eight Limited,06228323,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley One Hundred and Seventy-Five Limited,06228298,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley One Hundred and Seventy-Four Limited,06228294,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley One Hundred and Seventy-Nine Limited,06230433,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley One Hundred and Seventy-One Limited,06228096,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Seventy-Seven Limited,06228315,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley One Hundred and Seventy-Six Limited,06228301,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley One Hundred and Seventy-Three Limited,06228232,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley One Hundred and Seventy-Two Limited,06228219,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley One Hundred and Six Limited,05596708,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Sixteen Limited,05756939,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Sixty-Five Limited,06228482,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Sixty-Four Limited,06228474,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Sixty-One Limited,06228432,subsidiary,100,Berkeley Group,active,"in AR 2024/2025 only | renamed; now Lime Grove Residents (Main Structures and Common Parts) Ltd (residents co, Oct 2025)"
+Berkeley One Hundred and Sixty-Six Limited,06228484,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Sixty-Three Limited,06228463,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Thirteen Limited,05757019,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Thirty Limited,05979444,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Thirty-Eight Limited,05979563,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Thirty-Five Limited,05979528,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Thirty-Four Limited,05979515,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Thirty-Nine Limited,05979579,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Thirty-One Limited,05979459,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Thirty-Seven Limited,05979549,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Thirty-Six Limited,05979541,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Thirty-Three Limited,05979497,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Thirty-Two Limited,05979485,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Three Limited,05596745,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Twenty Limited,05809580,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Twenty-Eight Limited,05809675,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Twenty-Five Limited,05809640,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Twenty-Four Limited,05809635,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Twenty-Nine Limited,05809687,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Twenty-One Limited,05809596,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Twenty-Seven Limited,05809663,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Twenty-Six Limited,05809651,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Twenty-Three Limited,05809622,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Twenty-Two Limited,05809613,subsidiary,100,Berkeley Group,active,
+Berkeley One Hundred and Two Limited,05596769,subsidiary,100,Berkeley Group,active,
+Berkeley Portsmouth Harbour Limited,04056169,subsidiary,100,Berkeley Group,active,prev: PORTSMOUTH HARBOUR LIMITED (23 Nov 2000 - 24 Nov 2000); INTERCEDE 1637 LIMITED (21 Aug 2000 - 23 Nov 2000)
+Berkeley Portsmouth Waterfront Limited,04056166,subsidiary,100,Berkeley Group,active,prev: PORTSMOUTH WATERFRONT LIMITED (23 Nov 2000 - 24 Nov 2000); INTERCEDE 1636 LIMITED (21 Aug 2000 - 23 Nov 2000)
+Berkeley Properties Limited,02443826,subsidiary,100,Berkeley Group,active,prev: INTERCEDE 766 LIMITED (17 Nov 1989 - 02 May 1990)
+Berkeley Property Investments Limited,OE025218,subsidiary (non-UK),100,Berkeley Group,registered,
+Berkeley Real Estate Consulting (Beijing) Co. Limited,,subsidiary (non-UK),100,Berkeley Group,,
+Berkeley Residential (Singapore) Limited,,subsidiary (non-UK),100,Berkeley Group,,
+Berkeley Residential Limited,03367023,subsidiary,100,Berkeley Group,active,
+Berkeley Ryewood Limited,04732917,subsidiary,100,Berkeley Group,active,prev: BERKELEY RYEWOOD MEADOWS LIMITED (13 May 2011 - 08 Feb 2012); WEST KENT COLD STORAGE COMPANY LIMITED (16 Jan 2004 - 13 May 2011); BERKELEY SIXTY-SEVEN LIMITED (13 Apr 2003 - 16 Jan 2004)
+Berkeley Seventy Limited,04263812,subsidiary,100,Berkeley Group,active,prev: THIRLSTONE FREEHOLDS (THE SQUARE) LIMITED (02 Aug 2001 - 02 Oct 2003)
+Berkeley Seventy-Four Limited,05232339,subsidiary,100,Berkeley Group,active,
+Berkeley Seventy-One plc,05174439,subsidiary,100,Berkeley Group,active,prev: THE BERKELEY GROUP HOLDINGS P.L.C. (20 Jul 2004 - 19 Aug 2004); APEXCHARM PUBLIC LIMITED COMPANY (08 Jul 2004 - 20 Jul 2004)
+Berkeley Seventy-Seven Limited,05233013,subsidiary,100,Berkeley Group,active,
+Berkeley Seventy-Six Limited,05232989,subsidiary,100,Berkeley Group,active,
+Berkeley Seventy-Three Limited,05232237,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley Seventy-Two Limited,05232015,subsidiary,100,Berkeley Group,active,
+Berkeley Sixty Limited,04703735,subsidiary,100,Berkeley Group,active,
+Berkeley Sixty-Eight Limited,04732905,subsidiary,100,Berkeley Group,active,
+Berkeley Sixty-Five Limited,04703861,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley Sixty-Four Limited,04703842,subsidiary,100,Berkeley Group,active,
+Berkeley Sixty-Nine Limited,03620445,subsidiary,100,Berkeley Group,active,prev: ST. JOHN HOMES LIMITED (24 Aug 1998 - 03 Sep 2003)
+Berkeley Sixty-One Limited,04703779,subsidiary,100,Berkeley Group,active,
+Berkeley Sixty-Six Limited,04732911,subsidiary,100,Berkeley Group,active,agent of St John Homes Limited
+Berkeley Special Projects Limited,03060879,subsidiary,100,Berkeley Group,active,prev: KRIMPMADE LIMITED (24 May 1995 - 27 Dec 1995)
+Berkeley Sustainable Communities Limited,05364604,subsidiary,100,Berkeley Group,active,
+Berkeley Thirty-Eight Limited,04367058,subsidiary,100,Berkeley Group,active,
+Berkeley Thirty-Nine Limited,04367053,subsidiary,100,Berkeley Group,active,
+Berkeley Thirty-Three Limited,03497311,subsidiary,100,Berkeley Group,active,prev: BERKELEY SAAD (COMMERCIAL) LIMITED (09 Mar 1998 - 30 Oct 2001); TRANSIDEA LIMITED (22 Jan 1998 - 09 Mar 1998)
+Berkeley Three Limited,03710507,subsidiary,100,Berkeley Group,active,prev: BERKELEY HOMES (WEST LONDON) LIMITED (29 Jun 1999 - 14 Jul 1999); BERKELEY THREE LIMITED (09 Feb 1999 - 29 Jun 1999)
+Berkeley Twenty Limited,04015071,subsidiary,100,Berkeley Group,active,
+Berkeley Twenty-Eight Limited,04164807,subsidiary,100,Berkeley Group,active,
+Berkeley Twenty-Four Limited,04014964,subsidiary,100,Berkeley Group,active,
+Berkeley Twenty-Nine Limited,04165027,subsidiary,100,Berkeley Group,active,
+Berkeley Twenty-Seven Limited,02264179,subsidiary,100,Berkeley Group,active,prev: BERKELEY ST.ANDREW LIMITED (25 Sep 1997 - 19 Feb 2001); ST.ANDREW LIMITED (19 Jun 1992 - 25 Sep 1997); BERKELEY HOMES (NORTHERN) LIMITED (28 Jul 1988 - 19 Jun 1992); INTERCEDE 561 LIMITED (02 Jun 1988 - 28 Jul 1988)
+Berkeley Twenty-Three Limited,04014991,subsidiary,100,Berkeley Group,active,
+Berkeley Twenty-Two Limited,04014980,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred Limited,06960697,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Eight Limited,09876181,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Eighteen Limited,10529199,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Eleven Limited,09896824,subsidiary,100,Berkeley Group,active,in AR 2024/2025 only | renamed; now Woodstock Lodge (Oxford) No.2 Management Co Ltd (Mar 2026)
+Berkeley Two Hundred and Fifty Limited,14479082,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Fifty-Eight Limited,14732947,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Fifty-Five Limited,14479097,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Fifty-Four Limited,14479065,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Fifty-Nine Limited,14733997,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Fifty-One Limited,14479083,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Fifty-Seven Limited,14732925,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Fifty-Six Limited,14732910,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Fifty-Three Limited,14479085,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Fifty-Two Limited,14479086,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Five Limited,09389801,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Forty-Eight Limited,14478924,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Forty-Five Limited,14478886,subsidiary,100,Berkeley Group,active,in AR 2024/2025 only | renamed; now BERKELEY LIVING (THE WATERMINT) LIMITED | prev: BERKELEY TWO HUNDRED AND FORTY-FIVE LIMITED (11 Nov 2022 - 19 Dec 2025)
+Berkeley Two Hundred and Forty-Four Limited,14478865,subsidiary,100,Berkeley Group,active,renamed; now BERKELEY LIVING (MILESTONE LOCK) LIMITED | prev: BERKELEY TWO HUNDRED AND FORTY-FOUR LIMITED (11 Nov 2022 - 28 Aug 2026)
+Berkeley Two Hundred and Forty-Nine Limited,14478929,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Forty-One Limited,13973996,subsidiary (CH only; not in AR list),,Berkeley Group,dissolved,CH dissolved
+Berkeley Two Hundred and Forty-Seven Limited,14479066,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Forty-Six Limited,14478931,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Forty-Three Limited,14478869,subsidiary,100,Berkeley Group,active,in AR 2024/2025 only | renamed; now BERKELEY LIVING (FOUNDRY YARD) LIMITED | prev: BERKELEY TWO HUNDRED AND FORTY-THREE LIMITED (11 Nov 2022 - 02 Jan 2026)
+Berkeley Two Hundred and Forty-Two Limited,14074767,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Fourteen Limited,09987300,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Nine Limited,09886645,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Nineteen Limited,10529204,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and One Limited,06242037,subsidiary,100,Berkeley Group,active,prev: SAAD BERKELEY DEVELOPMENTS LIMITED (09 May 2007 - 15 Sep 2009)
+Berkeley Two Hundred and Seven Limited,09444675,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Seventeen Limited,10529183,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Seventy Limited,16185143,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Seventy-Five Limited,16839763,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Seventy-Four Limited,16839676,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Seventy-One Limited,16185163,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Seventy-Seven Limited,16839919,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Seventy-Six Limited,16839782,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Seventy-Three Limited,16837189,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Seventy-Two Limited,16837116,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Sixty Limited,14734024,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Sixty-Eight Limited,16185147,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Sixty-Four Limited,15108914,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Sixty-Nine Limited,16185134,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Sixty-One Limited,15108764,subsidiary,100,Berkeley Group,active,"likely The Draper BTR, Beaufort Park, Colindale NW9 (Long Harbour) - sold Apr 2025 (now LHMF 5 Draper 1 Ltd) | in AR 2024 only | SOLD: now LHMF 5 Draper 1 Ltd"
+Berkeley Two Hundred and Sixty-Seven Limited,16185095,subsidiary,100,Berkeley Group,active,in AR 2025 only | renamed; now BERKELEY LIVING LIMITED | prev: BERKELEY TWO HUNDRED AND SIXTY-SEVEN LIMITED (15 Jan 2025 - 16 Jun 2025)
+Berkeley Two Hundred and Sixty-Six Limited,16185009,subsidiary,100,Berkeley Group,active,in AR 2025 only | renamed; now BERKELEY LIVING (REFINERY SQUARE) LIMITED | prev: BERKELEY TWO HUNDRED AND SIXTY-SIX LIMITED (15 Jan 2025 - 19 Dec 2025)
+Berkeley Two Hundred and Sixty-Three Limited,15108895,subsidiary,100,Berkeley Group,active,"likely The Draper BTR, Beaufort Park, Colindale NW9 (Long Harbour) - sold Aug 2026 (now LHMF 5 Draper 3 Ltd) | SOLD: now LHMF 5 Draper 3 Ltd | prev: BERKELEY TWO HUNDRED AND SIXTY-THREE LIMITED (01 Sep 2023 - 24 Aug 2026)"
+Berkeley Two Hundred and Sixty-Two Limited,15108794,subsidiary,100,Berkeley Group,active,"likely The Draper BTR, Beaufort Park, Colindale NW9 (Long Harbour) - sold Oct 2025 (now LHMF 5 Draper 2 Ltd) | in AR 2024/2025 only | SOLD: now LHMF 5 Draper 2 Ltd | prev: BERKELEY TWO HUNDRED AND SIXTY-TWO LIMITED (01 Sep 2023 - 30 Oct 2025)"
+Berkeley Two Hundred and Thirteen Limited,09910046,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Thirty Limited,11221595,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Thirty-Eight Limited,13621000,subsidiary,100,Berkeley Group,active,in AR 2024 only | SOLD: now Huntley Wharf Block W2 Ltd (Reading)
+Berkeley Two Hundred and Thirty-Five Limited,13621509,subsidiary,100,Berkeley Group,active,"in AR 2024 only | SOLD: now St James Gate (Manager Land) Ltd, High Wycombe"
+Berkeley Two Hundred and Thirty-Four Limited,13621373,subsidiary,100,Berkeley Group,active,in AR 2024/2025 only | renamed; now BERKELEY LIVING (NAVIGATOR PLACE) LIMITED | prev: BERKELEY TWO HUNDRED AND THIRTY-FOUR LIMITED (14 Sep 2021 - 02 Jan 2026)
+Berkeley Two Hundred and Thirty-Nine Limited,13622318,subsidiary,100,Berkeley Group,active,in AR 2024 only | SOLD: now Huntley Wharf Block W3 Ltd (Reading)
+Berkeley Two Hundred and Thirty-One Limited,13620957,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Thirty-Seven Limited,13620967,subsidiary,100,Berkeley Group,active,in AR 2024 only | SOLD: now Huntley Wharf Block W1 Ltd (Reading)
+Berkeley Two Hundred and Thirty-Six Limited,13621523,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Thirty-Three Limited,13621287,subsidiary,100,Berkeley Group,active,renamed; now BERKELEY LIVING (THE STONEMERE) LIMITED | prev: BERKELEY TWO HUNDRED AND THIRTY-THREE LIMITED (14 Sep 2021 - 28 Aug 2026)
+Berkeley Two Hundred and Thirty-Two Limited,13621018,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Three Limited,09277198,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Twelve Limited,09908256,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Twenty Limited,10529283,subsidiary,100,Berkeley Group,active,
+Berkeley Two Hundred and Twenty-Eight Limited,11221608,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley Two Hundred and Twenty-Four Limited,10529337,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley Two Hundred and Twenty-Nine Limited,11221631,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley Two Hundred and Twenty-Seven Limited,11223324,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley Two Hundred and Twenty-Six Limited,11221448,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley Two Hundred and Twenty-Three Limited,10529332,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley Two Hundred and Twenty-Two Limited,10529319,subsidiary,100,Berkeley Group,dissolved,in AR 2024/2025 only | CH dissolved
+Berkeley Two Hundred and Two Limited,09247168,subsidiary,100,Berkeley Group,active,
+Berkeley Ventures Limited,02379539,subsidiary,100,Berkeley Group,active,prev: BERKELEY PARTNERSHIPS LIMITED (18 Jan 1990 - 22 May 1992); INTERCEDE 731 LIMITED (04 May 1989 - 18 Jan 1990)
+Berkeley Whitehart Investments Limited,,subsidiary (non-UK),100,Berkeley Group,,
+Boardcable Limited,05158376,subsidiary,100,Berkeley Group,active,
+Bromyard House (Car Park) Limited,05231068,subsidiary,100,Berkeley Group,active,
+Bromyard House (Freehold) Limited,05231093,subsidiary,100,Berkeley Group,active,
+Bromyard House (North) Limited,05687332,subsidiary,100,Berkeley Group,active,
+Bromyard House Limited,05230816,subsidiary,100,Berkeley Group,active,
+CPWGCO 1 Limited,06928853,subsidiary,100,Berkeley Group,active,
+Charco 143 Limited,02241279,subsidiary,100,Berkeley Group,active,
+Chelsea Bridge Wharf (Management Company) Limited,05308575,subsidiary,100,Berkeley Group,active,"Chelsea Bridge Wharf, Battersea SW8/SW11 (legacy)"
+Chelsea Bridge Wharf Car Park Limited,04644941,subsidiary,100,Berkeley Group,active,"Chelsea Bridge Wharf, Battersea SW8/SW11 (legacy)"
+Comiston Properties Limited,OE032197,subsidiary (non-UK),100,Berkeley Group,registered,in AR 2024 only
+Community Housing Action Limited,02485661,subsidiary,100,Berkeley Group,active,
+Community Villages Limited,04552439,subsidiary,100,Berkeley Group,active,
+Drummond Road (Number 1) Limited,04422351,subsidiary,100,Berkeley Group,active,
+Drummond Road (Number 2) Limited,04421788,subsidiary,100,Berkeley Group,active,
+Ely Business Park Limited,04119317,subsidiary,100,Berkeley Group,active,"Ely, Cambs (not London) | agent of Berkeley Commercial Developments Limited"
+Exchange Place No.2 Limited,03595308,subsidiary,100,Berkeley Group,active,prev: COUNTRYHOUSE LIMITED (09 Jul 1998 - 21 Aug 2003)
+Fishguard Bridge Limited,04792101,subsidiary,100,Berkeley Group,active,
+Fishguard Tunnel Limited,04792098,subsidiary,100,Berkeley Group,active,
+Great Woodcote Park Management Limited,02971488,subsidiary,100,Berkeley Group,active,prev: GREAT LUXBOROUGH PARK MANAGEMENT LIMITED (27 Sep 1994 - 28 Feb 1995)
+Hertfordshire Homes Limited,03627027,subsidiary,100,Berkeley Group,active,
+Historic Homes Limited,04168398,subsidiary,100,Berkeley Group,active,prev: BERKELEY THIRTY LIMITED (27 Feb 2001 - 31 Jan 2002)
+Kentdean Limited,02712832,subsidiary,100,Berkeley Group,active,
+Mayweather Limited,12351423,subsidiary (CH only; not in AR list),,Berkeley Group,dissolved,CH dissolved
+North Tower Car Park Management Company Limited,03739948,subsidiary (CH only; not in AR list),,Berkeley Group,dissolved,CH dissolved | prev: COBCO (269) LIMITED (24 Mar 1999 - 12 May 1999)
+North Tower Management Company Limited,03739944,subsidiary (CH only; not in AR list),,Berkeley Group,dissolved,CH dissolved | prev: COBCO (268) LIMITED (24 Mar 1999 - 12 May 1999)
+One Tower Bridge Limited,04703811,subsidiary,100,Berkeley Group,active,"One Tower Bridge, Southwark SE1 | prev: BERKELEY SIXTY-TWO LIMITED (19 Mar 2003 - 07 Sep 2010)"
+Oval Works Limited,10529179,subsidiary,100,Berkeley Group,active,"Oval Works office block, Oval Village, Kennington (Lambeth); forward-sold to Landsec (LS Oval Ltd), shares transferred Nov 2025 | in AR 2024/2025 only | SOLD: now 100 Victoria St SW1E 5JL | prev: BERKELEY TWO HUNDRED AND SIXTEEN LIMITED (16 Dec 2016 - 12 Mar 2021)"
+Paddington Green Propco Limited,11223300,subsidiary,100,Berkeley Group,active,"West End Gate Block G, Paddington W2 - BTR block sold | in AR 2024/2025 only | SOLD: now BTR Paddington Propco Ltd, 55 Wells St W1W 8BQ | prev: PADDINGTON GREEN PROPCO LIMITED (23 Aug 2021 - 14 Jul 2026); WEST END GATE BLOCK G LIMITED (03 Aug 2021 - 23 Aug 2021); BERKELEY TWO HUNDRED AND TWENTY-FIVE LIMITED (23 Feb 2018 - 03 Aug 2021)"
+Quod Erat Demonstrandum Properties Limited,04171157,subsidiary,100,Berkeley Group,active,prev: GTE (TRACEY BARN) LIMITED (16 Jan 2002 - 14 Feb 2006); GTE INVESTMENTS LIMITED (02 Mar 2001 - 16 Jan 2002)
+Retirement Homes Limited,01678669,subsidiary,100,Berkeley Group,active,prev: INTERCEDE 110 LIMITED (16 Nov 1982 - 23 Dec 1982)
+Royal Clarence Yard (Marina) Limited,04285140,subsidiary,100,Berkeley Group,active,Gosport (not London)
+Royal Clarence Yard (Phase A) Limited,04285138,subsidiary,100,Berkeley Group,active,Gosport (not London)
+Royal Clarence Yard (Phase B) Limited,05807700,subsidiary,100,Berkeley Group,active,Gosport (not London)
+Royal Clarence Yard (Phase C) Limited,06228398,subsidiary,100,Berkeley Group,active,Gosport (not London) | prev: BERKELEY ONE HUNDRED AND SIXTY LIMITED (26 Apr 2007 - 04 Jun 2013)
+Royal Clarence Yard (Phase E) Limited,04311227,subsidiary,100,Berkeley Group,active,Gosport (not London) | prev: BERKELEY NUMBER EIGHT LIMITED (22 Aug 2003 - 25 Nov 2004); CROSBY EIGHT LIMITED (25 Oct 2001 - 22 Aug 2003)
+Royal Clarence Yard (Phase G) Management Company Limited,05231697,subsidiary,100,Berkeley Group,active,Gosport (not London)
+Royal Clarence Yard (Phase H) Limited,04367060,subsidiary,100,Berkeley Group,active,Gosport (not London) | prev: BERKELEY THIRTY-SEVEN LIMITED (05 Feb 2002 - 11 Jan 2005)
+Royal Clarence Yard (Phase I) Limited,04472601,subsidiary,100,Berkeley Group,active,Gosport (not London)
+Royal Clarence Yard (Phase K) Management Company Limited,04472573,subsidiary,100,Berkeley Group,active,Gosport (not London) | prev: ROYAL CLARENCE YARD (PHASE K) LIMITED (28 Jun 2002 - 06 Jan 2003)
+Royal Clarence Yard Estate Limited,04285132,subsidiary,100,Berkeley Group,active,Gosport (not London) | prev: ROYAL CLARENCE YARD (FREEHOLDS) LIMITED (11 Sep 2001 - 29 Sep 2004)
+SJC (Highgate) Limited,03870267,subsidiary,100,Berkeley Group,active,prev: ST. JAMES CAPITAL (HIGHGATE) LIMITED (23 Feb 2000 - 11 Dec 2000); MISLEX (255) LIMITED (02 Nov 1999 - 23 Feb 2000)
+Sandgates Developments Limited,02270733,subsidiary,100,Berkeley Group,active,prev: TYROLESE (128) LIMITED (23 Jun 1988 - 15 Mar 1990)
+Silverdale One Limited,OE025233,subsidiary (non-UK),100,Berkeley Group,registered,
+Sitesecure Limited,02043313,subsidiary,100,Berkeley Group,active,prev: INTERCEDE 380 LIMITED (04 Aug 1986 - 26 Sep 1986)
+South Quay Plaza Management Limited,02358612,subsidiary (partly owned),62.5,Berkeley Group,active,"South Quay Plaza, Isle of Dogs E14 | prev: BELLINIA ENTERPRISES LIMITED (10 Mar 1989 - 03 Apr 1989)"
+St Katharine Homes Limited,04646782,subsidiary,100,Berkeley Group,active,prev: BERKELEY FORTY-EIGHT LIMITED (24 Jan 2003 - 31 Jan 2025)
+TBG (1) 2009 Limited,07043042,subsidiary (CH only; not in AR list),,Berkeley Group,dissolved,CH dissolved
+TBG (3) 2009 Limited,07043083,subsidiary,100,Berkeley Group,active,
+TBG (4) Limited,07396674,subsidiary (CH only; not in AR list),,Berkeley Group,dissolved,CH dissolved | prev: SEVCO (5038) LIMITED (05 Oct 2010 - 31 Dec 2010)
+TBG (5) LLP,OC374191,subsidiary (CH only; not in AR list),,Berkeley Group,dissolved,CH dissolved
+Tabard Square (Building A) Limited,05145334,subsidiary,100,Berkeley Group,active,"Tabard Square, Southwark SE1 (legacy)"
+Tabard Square (Building B) Limited,05145339,subsidiary,100,Berkeley Group,active,"Tabard Square, Southwark SE1 (legacy)"
+Tabard Square (Car Park) Limited,05145336,subsidiary,100,Berkeley Group,active,"Tabard Square, Southwark SE1 (legacy)"
+The Berkeley Festival Waterfront Company Limited,03134473,subsidiary,100,Berkeley Group,active,prev: THE BERKELEY FESTIVAL WATERSIDE COMPANY LIMITED (04 Dec 1996 - 09 Apr 1997); BERKELEY CONSTRUCTION LIMITED (05 Dec 1995 - 04 Dec 1996)
+The Berkeley Group plc,01454064,subsidiary,100,Berkeley Group,active,prev: BERKELEY HOMES (INVESTMENTS) LIMITED (15 Oct 1979 - 17 Nov 1982)
+The Millennium Festival Leisure Company Limited,03394885,subsidiary,100,Berkeley Group,active,
+The Oxford Gateway Development Company Limited,06228490,subsidiary,100,Berkeley Group,active,Oxford (not London) | prev: BERKELEY ONE HUNDRED AND SIXTY-SEVEN LIMITED (26 Apr 2007 - 07 Aug 2007)
+Woodside Road Limited,04119965,subsidiary,100,Berkeley Group,active,
+Berkeley Sutton Limited,03973899,JV,50,Berkeley Group JV,active,prev: SHELFCO (NO.1889) LIMITED (17 Apr 2000 - 09 Jun 2000)
+Berkeley (Canalside) Limited,04311208,subsidiary,100,Berkeley Homes,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY NUMBER FIVE LIMITED (22 Aug 2003 - 18 Dec 2003); CROSBY FIVE LIMITED (25 Oct 2001 - 22 Aug 2003)
+Berkeley Build Limited,01188537,subsidiary,100,Berkeley Homes,active,agent of Berkeley Homes Public Limited Company | prev: KREVIN LIMITED (25 Oct 1974 - 31 Dec 1978)
+Berkeley Fifty-Five Limited,04646729,subsidiary,100,Berkeley Homes,active,agent of Berkeley Homes Public Limited Company
+Berkeley Forty-Five Limited,01527747,subsidiary,100,Berkeley Homes,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY HOMES (LONDON) LIMITED (17 Jun 1985 - 11 Jul 2002); J.D. CRIPPS DEVELOPMENTS LTD (12 Nov 1980 - 17 Jun 1985)
+Berkeley Forty-Four plc,01243660,subsidiary,100,Berkeley Homes,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY HOMES (HOME COUNTIES) PUBLIC LIMITED COMPANY (28 Jun 1996 - 09 Jul 2002); BERKELEY HOMES PUBLIC LIMITED COMPANY (10 Feb 1976 - 28 Jun 1996)
+Berkeley Gateway Limited,05596702,subsidiary,100,Berkeley Homes,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY NINETY-FOUR LIMITED (19 Oct 2005 - 02 Jul 2018)
+Berkeley Homes Group Limited,04015128,subsidiary,100,Berkeley Homes,active,prev: BERKELEY TWENTY-FIVE LIMITED (15 Jun 2000 - 04 Jul 2011)
+Berkeley Homes Public Limited Company,04088248,subsidiary,100,Berkeley Homes,active,prev: BERKELEY TWENTY-SIX PUBLIC LIMITED COMPANY (06 Oct 2000 - 31 Oct 2000)
+Berkeley Homes Special Contracts Public Limited Company,SC045234,subsidiary (non-UK),100,Berkeley Homes,active,prev: BERKELEY TWENTY-SEVEN PUBLIC LIMITED COMPANY (31 Oct 2000 - 29 Nov 2000); BERKELEY HOMES PUBLIC LIMITED COMPANY (28 Jun 1996 - 31 Oct 2000); THOMSON T - LINE PLC (13 Nov 1967 - 28 Jun 1996)
+Berkeley Modular Limited,10529174,subsidiary,100,Berkeley Homes,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY TWO HUNDRED AND FIFTEEN LIMITED (16 Dec 2016 - 26 May 2017)
+Berkeley Ninety-One Limited,05383514,subsidiary,100,Berkeley Homes,active,agent of Berkeley Homes Public Limited Company | prev: STANMORE RELOCATIONS LIMITED (25 Jul 2005 - 09 Aug 2005); BERKELEY NINETY-ONE LIMITED (04 Mar 2005 - 25 Jul 2005)
+Berkeley STE Limited,02668341,subsidiary,100,Berkeley Homes,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY HOMES (WEST LONDON) LIMITED (14 Jul 1999 - 04 Sep 2014); BERKELEY HOMES (THAMES VALLEY) LIMITED (26 Feb 1993 - 14 Jul 1999); TREVORT LIMITED (04 Dec 1991 - 26 Feb 1993)
+Berkeley SW Management Limited,04974243,subsidiary,100,Berkeley Homes,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY HOMES (FESTIVAL DEVELOPMENT) LIMITED (24 Nov 2003 - 05 Feb 2015)
+Berkeley Seven Limited,02264100,subsidiary,100,Berkeley Homes,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY HOMES (EASTERN) LIMITED (28 Jul 1988 - 01 Mar 1999); INTERCEDE 563 LIMITED (02 Jun 1988 - 28 Jul 1988)
+Berkeley Urban Renaissance Limited,05541599,subsidiary,100,Berkeley Homes,active,agent of Berkeley Homes Public Limited Company
+Clare Homes Limited,02628331,subsidiary,100,Berkeley Homes,active,agent of Berkeley Homes Public Limited Company | prev: BRIGHTGROWTH LIMITED (10 Jul 1991 - 11 Nov 1991)
+Lisa Estates (St Albans) Limited,04703825,subsidiary,100,Berkeley Homes,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY SIXTY-THREE LIMITED (19 Mar 2003 - 10 Sep 2010)
+PEL Investments Limited,05757113,subsidiary,100,Berkeley Homes,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY ONE HUNDRED AND TEN LIMITED (27 Mar 2006 - 02 Apr 2008)
+St John Homes Limited,04886476,subsidiary,100,Berkeley Homes,active,agent of Berkeley Homes Public Limited Company
+Stanmore Relocations Limited,05459681,subsidiary,100,Berkeley Homes,active,"Stanmore Place, Harrow HA7 | agent of Berkeley Homes Public Limited Company | prev: INTERCEDE 2046 LIMITED (23 May 2005 - 12 Aug 2005)"
+Tabard Square (Building C) Limited,05145345,subsidiary,100,Berkeley Homes,active,"Tabard Square, Southwark SE1 (legacy) | agent of Berkeley Homes Public Limited Company"
+Berkeley Homes (Barn Elms) Limited,01132313,subsidiary,100,Berkeley Homes - Barn Elms,active,agent of Berkeley Homes Public Limited Company | prev: SPENCER HOMES LIMITED (03 Sep 1973 - 26 Apr 1995)
+Berkeley Homes (Capital) plc,04486271,subsidiary,100,Berkeley Homes - Capital,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY HOMES (LONDON) PUBLIC LIMITED COMPANY (15 Jul 2002 - 13 Apr 2004)
+Berkeley Homes (Carmelite) Limited,06340689,subsidiary,100,Berkeley Homes - Carmelite,active,prev: METRO CONSTRUCTION LIMITED (13 Aug 2007 - 07 Dec 2011)
+Berkeley Homes (Central & West London) Public Limited Company,05073692,subsidiary,100,Berkeley Homes - Central & West London,active,
+Berkeley Homes (Central London) Limited,04231165,subsidiary,100,Berkeley Homes - Central London,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY HOMES (CHELSEA BRIDGE WHARF) LIMITED (08 Jun 2001 - 25 May 2004)
+Chelsea Bridge Wharf (Block A) Limited,04413801,subsidiary,100,Berkeley Homes - Central London,active,"Chelsea Bridge Wharf, Battersea SW8/SW11 (legacy) | agent of Berkeley Homes (Central London) Limited | prev: CHELSEA BRIDGE WHARF (BLOCK E) LIMITED (10 Apr 2002 - 20 Dec 2002)"
+Chelsea Bridge Wharf (Block B) Limited,04465244,subsidiary,100,Berkeley Homes - Central London,active,"Chelsea Bridge Wharf, Battersea SW8/SW11 (legacy) | agent of Berkeley Homes (Central London) Limited"
+Chelsea Bridge Wharf (Block P) Limited,05560441,subsidiary,100,Berkeley Homes - Central London,active,"Chelsea Bridge Wharf, Battersea SW8/SW11 (legacy) | agent of Berkeley Homes (Central London) Limited"
+Chelsea Bridge Wharf (C North) Limited,04931669,subsidiary,100,Berkeley Homes - Central London,active,"Chelsea Bridge Wharf, Battersea SW8/SW11 (legacy) | agent of Berkeley Homes (Central London) Limited"
+Chelsea Bridge Wharf (C South) Limited,05496537,subsidiary,100,Berkeley Homes - Central London,active,"Chelsea Bridge Wharf, Battersea SW8/SW11 (legacy) | agent of Berkeley Homes (Central London) Limited"
+Berkeley Homes (Chertsey) Limited,02509754,subsidiary,100,Berkeley Homes - Chertsey,active,prev: CASHSIDE LIMITED (08 Jun 1990 - 01 Sep 1993)
+Berkeley Homes (Chiltern) Limited,02628635,subsidiary,100,Berkeley Homes - Chiltern,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY HOMES (NORTH LONDON) LIMITED (11 Nov 1991 - 14 May 1999); BUCKSDENE LIMITED (11 Jul 1991 - 11 Nov 1991)
+Berkeley Homes (City) Limited,03710437,subsidiary,100,Berkeley Homes - City,active,prev: BERKELEY ONE LIMITED (09 Feb 1999 - 18 Mar 1999)
+Berkeley Homes (City & East London) Limited,04164942,subsidiary,100,Berkeley Homes - City & East London,active,prev: BERKELEY HOMES (SOUTH EAST LONDON) LIMITED (17 Dec 2002 - 20 Feb 2003); BERKELEY THIRTY-TWO LIMITED (21 Feb 2001 - 17 Dec 2002)
+Berkeley Homes (Dorset) Limited,01454068,subsidiary,100,Berkeley Homes - Dorset,active,prev: BERKELEY HOMES (WESTERN) LIMITED (15 Oct 1979 - 08 Jul 1985)
+Berkeley Homes (East Anglia) Limited,02208383,subsidiary,100,Berkeley Homes - East Anglia,active,agent of Berkeley Homes Public Limited Company | prev: INTERCEDE 523 LIMITED (24 Dec 1987 - 07 Apr 1988)
+Berkeley Homes (East Kent) Limited,02264151,subsidiary,100,Berkeley Homes - East Kent,active,agent of Berkeley Homes Public Limited Company | prev: INTERCEDE 568 LIMITED (02 Jun 1988 - 25 Jul 1988)
+Berkeley Homes (East London) Limited,03710502,subsidiary,100,Berkeley Homes - East London,active,prev: BERKELEY TWO LIMITED (09 Feb 1999 - 18 Mar 1999)
+Berkeley Homes (East Thames) Limited,04480928,subsidiary,100,Berkeley Homes - East Thames,active,agent of Berkeley Homes Public Limited Company
+Berkeley Homes (Eastern) Limited,02630863,subsidiary,100,Berkeley Homes - Eastern,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY HOMES (KENT) LIMITED (11 Nov 1991 - 06 May 1999); EMMACLOSE LIMITED (19 Jul 1991 - 11 Nov 1991)
+Berkeley Homes (Eastern Counties) Limited,01454062,subsidiary,100,Berkeley Homes - Eastern Counties,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY HOMES (KENT) LIMITED (21 Mar 2007 - 02 Feb 2011); BERKELEY HOMES (ESSEX) LIMITED. (17 Jun 1985 - 21 Mar 2007); BERKELEY HOMES (HAMPSHIRE) LIMITED (15 Oct 1979 - 17 Jun 1985)
+Berkeley Homes (Essex) Limited,06228578,subsidiary,100,Berkeley Homes - Essex,active,prev: BERKELEY ONE HUNDRED AND SIXTY-EIGHT LIMITED (26 Apr 2007 - 23 May 2007)
+Berkeley Homes (Festival Waterfront Company) Limited,04974207,subsidiary,100,Berkeley Homes - Festival Waterfront Company,active,agent of Berkeley Homes Public Limited Company
+Berkeley Homes (Fleet) Limited,03174386,subsidiary,100,Berkeley Homes - Fleet,active,prev: SAAD BERKELEY LIMITED (17 Apr 1996 - 06 Aug 2009); CIVILDRIVE LIMITED (18 Mar 1996 - 17 Apr 1996)
+Berkeley Homes (Greater London) Limited,05756902,subsidiary,100,Berkeley Homes - Greater London,active,prev: BERKELEY ONE HUNDRED AND NINETEEN LIMITED (27 Mar 2006 - 24 Aug 2006)
+Berkeley Homes (Hampshire) Limited,02625993,subsidiary,100,Berkeley Homes - Hampshire,active,agent of Berkeley Homes Public Limited Company | prev: DROPTALE LIMITED (02 Jul 1991 - 11 Nov 1991)
+Berkeley Homes (Hertfordshire & Cambridgeshire) Limited,06228606,subsidiary,100,Berkeley Homes - Hertfordshire & Cambridgeshire,active,prev: BERKELEY ONE HUNDRED AND SIXTY-NINE LIMITED (26 Apr 2007 - 23 May 2007)
+Berkeley Homes (Holdings) Limited,04183262,subsidiary (CH only; not in AR list),,Berkeley Homes - Holdings,dissolved,CH dissolved | prev: BERKELEY THIRTY-ONE LIMITED (19 Mar 2001 - 21 May 2001)
+Berkeley Homes (Home Counties) plc,04486305,subsidiary,100,Berkeley Homes - Home Counties,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY HOMES (HOMES COUNTIES) PLC (15 Jul 2002 - 31 Jul 2013)
+Berkeley Homes (Kent) Limited,05145341,subsidiary,100,Berkeley Homes - Kent,active,prev: TABARD SQUARE (BUILDING D) LIMITED (04 Jun 2004 - 17 Feb 2011)
+Berkeley Homes (North East London) Limited,04294000,subsidiary,100,Berkeley Homes - North East London,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY HOMES (HERTFORDSHIRE & CAMBRIDGESHIRE) LIMITED (26 Sep 2001 - 23 May 2007)
+Berkeley Homes (North Western) Limited,02264043,subsidiary,100,Berkeley Homes - North Western,active,prev: BERKELEY TARR LIMITED (06 Mar 1989 - 19 Jun 1991); INTERCEDE 566 LIMITED (02 Jun 1988 - 06 Mar 1989)
+Berkeley Homes (Oxford & Chiltern) Limited,02843844,subsidiary,100,Berkeley Homes - Oxford & Chiltern,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY HOMES (OXFORD) LIMITED (30 Mar 1994 - 19 Mar 2001); WEDGWOOD HOMES LIMITED (22 Nov 1993 - 30 Mar 1994); AMORWELL LIMITED (10 Aug 1993 - 22 Nov 1993)
+Berkeley Homes (PCL) Limited,05232072,subsidiary,100,Berkeley Homes - PCL,active,prev: BERKELEY SEVENTY-FIVE LIMITED (15 Sep 2004 - 07 Mar 2012)
+Berkeley Homes (South) Limited,00911365,subsidiary,100,Berkeley Homes - South,active,prev: CROSBY HOMES SOUTHERN LIMITED (13 Dec 1989 - 11 Jul 2005); CROSBY WAINHOMES LIMITED (17 Feb 1982 - 13 Dec 1989); E.B. JONES & RAWLINSON (SUCCESSORS) LIMITED (24 Jul 1967 - 17 Feb 1982)
+Berkeley Homes (South East London) Limited,03710536,subsidiary,100,Berkeley Homes - South East London,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY HOMES (CITY & EAST LONDON) LIMITED (06 May 1999 - 20 Feb 2003); BERKELEY HOMES (EASTERN) LIMITED (01 Mar 1999 - 06 May 1999); BERKELEY SEVEN LIMITED (09 Feb 1999 - 01 Mar 1999)
+Berkeley Homes (South London) Limited,04523052,subsidiary,100,Berkeley Homes - South London,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY HOMES (NORTH EAST LONDON) LIMITED (30 Aug 2002 - 23 May 2007)
+Berkeley Homes (South Western House No. 1) Limited,03809193,subsidiary,100,Berkeley Homes - South Western House No. 1,active,agent of Berkeley Homes (Hampshire) Limited | prev: BURSTFLAME LIMITED (19 Jul 1999 - 06 Oct 1999)
+Berkeley Homes (Southall) Limited,06013820,subsidiary,100,Berkeley Homes - Southall,active,prev: ST JAMES WEST LONDON LIMITED (26 Sep 2013 - 02 Feb 2018); BERKELEY ONE HUNDRED AND FORTY-TWO LIMITED (29 Nov 2006 - 26 Sep 2013)
+Berkeley Homes (Southern) Limited,01454061,subsidiary,100,Berkeley Homes - Southern,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY HOMES (SUSSEX) LIMITED (17 May 1984 - 26 Mar 1999); BERKELEY HOMES (EASTERN) LIMITED (15 Oct 1979 - 17 May 1984)
+Berkeley Homes (Southern Counties) Limited,05232111,subsidiary,100,Berkeley Homes - Southern Counties,active,prev: BERKELEY SEVENTY-NINE LIMITED (15 Sep 2004 - 13 Jul 2022)
+Berkeley Homes (Stanmore) Limited,00874619,subsidiary,100,Berkeley Homes - Stanmore,active,"Stanmore Place, Harrow HA7 | prev: COURTEN PROPERTIES LIMITED (22 Mar 1966 - 07 Feb 1989)"
+Berkeley Homes (Surrey) Limited,02238315,subsidiary,100,Berkeley Homes - Surrey,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY HOMES (SURREY & THAMES VALLEY) LIMITED (19 Apr 1990 - 26 Feb 1993); BERKELEY GROUP RESIDENTIAL PROPERTY LIMITED (18 May 1988 - 19 Apr 1990); INTERCEDE 544 LIMITED (31 Mar 1988 - 18 May 1988)
+Berkeley Homes (Thames Gateway) Limited,04790768,subsidiary,100,Berkeley Homes - Thames Gateway,active,agent of Berkeley Homes Public Limited Company
+Berkeley Homes (Thames Valley) Limited,05074375,subsidiary,100,Berkeley Homes - Thames Valley,active,agent of Berkeley Homes Public Limited Company
+Berkeley Homes (Three Valleys) Limited,05073598,subsidiary,100,Berkeley Homes - Three Valleys,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY HOMES (SOUTH THAMES) LIMITED (15 Mar 2004 - 21 Dec 2009)
+Berkeley Homes (Urban Developments) Limited,06423959,subsidiary,100,Berkeley Homes - Urban Developments,active,agent of Berkeley Homes Public Limited Company
+Berkeley Homes (Urban Living) Limited,06423966,subsidiary,100,Berkeley Homes - Urban Living,active,agent of Berkeley Homes Public Limited Company
+Berkeley Homes (Urban Renaissance) Limited,06423942,subsidiary,100,Berkeley Homes - Urban Renaissance,active,agent of Berkeley Homes Public Limited Company
+Berkeley Homes (West London) Limited,02660063,subsidiary,100,Berkeley Homes - West London,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY FIRST LIMITED (08 Jan 2004 - 04 Sep 2014); BERKELEY COLLEGE HOMES LIMITED (12 May 1993 - 08 Jan 2004); ANGELFISH ENTERPRISES LIMITED (04 Nov 1991 - 12 May 1993)
+Berkeley Homes (West Thames) Limited,05596699,subsidiary,100,Berkeley Homes - West Thames,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY NINETY-THREE LIMITED (19 Oct 2005 - 21 Feb 2017)
+Berkeley Homes (Western) Limited,05383571,subsidiary,100,Berkeley Homes - Western,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY HOMES (OXFORD) LIMITED (31 Jan 2014 - 03 Mar 2014); BERKELEY EIGHTY-FIVE LIMITED (04 Mar 2005 - 31 Jan 2014)
+U B Developments Limited,04386997,JV,50,Berkeley Homes SE London (JV with United House),active,
+Berkeley Living (Foundry Yard) Limited,14478869,subsidiary,100,Berkeley Living (build-to-rent),active,"BTR at Alexandra Gate, Haringey N8 | prev: BERKELEY TWO HUNDRED AND FORTY-THREE LIMITED (11 Nov 2022 - 02 Jan 2026)"
+Berkeley Living (Navigator Place) Limited,13621373,subsidiary,100,Berkeley Living (build-to-rent),active,"BTR at Kidbrooke Village, Greenwich SE3 | prev: BERKELEY TWO HUNDRED AND THIRTY-FOUR LIMITED (14 Sep 2021 - 02 Jan 2026)"
+Berkeley Living (Refinery Square) Limited,16185009,subsidiary,100,Berkeley Living (build-to-rent),active,"BTR at Horlicks Quarter, Slough (not London) | prev: BERKELEY TWO HUNDRED AND SIXTY-SIX LIMITED (15 Jan 2025 - 19 Dec 2025)"
+Berkeley Living (the Watermint) Limited,14478886,subsidiary,100,Berkeley Living (build-to-rent),active,"BTR at Hendon Waterside, Barnet NW9 | prev: BERKELEY TWO HUNDRED AND FORTY-FIVE LIMITED (11 Nov 2022 - 19 Dec 2025)"
+Berkeley Living Limited,16185095,subsidiary,100,Berkeley Living (build-to-rent),active,prev: BERKELEY TWO HUNDRED AND SIXTY-SEVEN LIMITED (15 Jan 2025 - 16 Jun 2025)
+Berkeley Partnership Homes Limited,02027578,subsidiary,100,Berkeley Partnership Homes,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY HOMES (CHELSEA) LIMITED (27 Apr 1987 - 27 Nov 1991); CHERNABE LIMITED (12 Jun 1986 - 27 Apr 1987)
+Berkeley Strategic Land Limited,02264097,subsidiary,100,Berkeley Strategic Land,active,prev: BERKELEY HOMES (SOUTHERN) LIMITED (28 Jul 1988 - 26 Mar 1999); INTERCEDE 562 LIMITED (02 Jun 1988 - 28 Jul 1988)
+St Edward Limited,05857171,subsidiary,100,St Edward (Berkeley-owned entity),active,
+SEH Manager Limited,06939560,JV,50,St Edward (JV with Prudential/M&G),active,
+SEH Nominee Limited,06939574,JV,50,St Edward (JV with Prudential/M&G),active,
+SES Manager Limited,07826169,JV,50,St Edward (JV with Prudential/M&G),active,
+SES Nominee Limited,07826279,JV,50,St Edward (JV with Prudential/M&G),active,
+St Edward Homes Limited,05857216,JV,50,St Edward (JV with Prudential/M&G),active,
+St Edward Homes Number Five Limited,06423153,JV,50 (100% of St Edward Homes Ltd),St Edward (JV with Prudential/M&G),active,
+St Edward Homes Number Four Limited,06423111,JV,50 (100% of St Edward Homes Ltd),St Edward (JV with Prudential/M&G),active,
+St Edward Homes Number One Limited,06423104,JV,50 (100% of St Edward Homes Ltd),St Edward (JV with Prudential/M&G),active,
+St Edward Homes Number Three Limited,06427442,JV,50 (100% of St Edward Homes Ltd),St Edward (JV with Prudential/M&G),active,
+St Edward Homes Number Two Limited,06423136,JV,50 (100% of St Edward Homes Ltd),St Edward (JV with Prudential/M&G),active,
+St Edward Homes Partnership Freeholds Limited,09129997,JV,50,St Edward (JV with Prudential/M&G),active,
+St Edward Strand Partnership Freeholds Limited,09048712,JV,50,St Edward (JV with Prudential/M&G),active,
+Strand Property Unit Trust (Unregistered),,JV,50,St Edward (JV with Prudential/M&G),,in AR 2024/2025 only
+The St Edward (Strand) Partnership (Unregistered Partnership),,JV,50,St Edward (JV with Prudential/M&G),,
+The St Edward Homes Partnership (Unregistered Partnership),,JV,50,St Edward (JV with Prudential/M&G),,
+Battersea Reach Estate Company Limited,04117697,subsidiary,100,St George,active,"Battersea Reach, Wandsworth SW18 (legacy) | agent of St George South London Ltd | prev: ST GEORGE WHARF (SEVEN) LIMITED (30 Nov 2000 - 18 Mar 2003)"
+Castle Court Putney Wharf Limited,04367040,subsidiary,100,St George,active,Putney Wharf SW15 (legacy) | agent of St George Central London Limited | prev: BERKELEY THIRTY-FOUR LIMITED (05 Feb 2002 - 18 Oct 2004)
+Imperial Wharf (Block C) Limited,04008430,subsidiary,100,St George,active,"Imperial Wharf, Fulham SW6 (legacy) | agent of St George Central London Limited | prev: IMPERIAL WHARF (CHELSEA TOWER) RESIDENTIAL LIMITED (01 Jun 2000 - 18 Feb 2005)"
+Imperial Wharf (Block J) Ltd,04008487,subsidiary,100,St George,active,"Imperial Wharf, Fulham SW6 (legacy) | agent of St George Central London Limited | prev: IMPERIAL WHARF (CHELSEA TOWER) COMMERCIAL LIMITED (01 Jun 2000 - 24 Sep 2002)"
+Imperial Wharf (Riverside Tower) Residential Limited,04008446,subsidiary,100,St George,active,"Imperial Wharf, Fulham SW6 (legacy) | agent of St George Central London Limited"
+Kensington Westside No. 2 Limited,04125895,subsidiary,100,St George,active,Kensington/West London (legacy) | agent of St George South London Ltd | prev: CHARTER QUAY LIMITED (26 Mar 2003 - 14 Nov 2003); ST GEORGE WHARF (NINE) LIMITED (14 Dec 2000 - 26 Mar 2003)
+Putney Wharf Estate Limited,04125297,subsidiary,100,St George,active,Putney Wharf SW15 (legacy) | agent of St George South London Ltd | prev: ST GEORGE WHARF (ELEVEN) LIMITED (14 Dec 2000 - 01 Oct 2002)
+Riverside West (Block C) Commercial Limited,04121635,subsidiary,100,St George,active,"Riverside West, Wandsworth SW18 (legacy) | agent of St George South London Ltd | prev: ST GEORGE WHARF (FIFTEEN) LIMITED (08 Dec 2000 - 30 Jan 2002)"
+Riverside West (Block C) Residential Limited,04121619,subsidiary,100,St George,active,"Riverside West, Wandsworth SW18 (legacy) | agent of St George South London Ltd | prev: ST GEORGE WHARF (FOURTEEN) LIMITED (08 Dec 2000 - 30 Jan 2002)"
+Riverside West (Block D) Commercial Limited,04121629,subsidiary,100,St George,active,"Riverside West, Wandsworth SW18 (legacy) | agent of St George South London Ltd | prev: ST GEORGE WHARF (SEVENTEEN) LIMITED (08 Dec 2000 - 30 Jan 2002)"
+Riverside West (Block D) Residential Limited,04121621,subsidiary,100,St George,active,"Riverside West, Wandsworth SW18 (legacy) | agent of St George South London Ltd | prev: ST GEORGE WHARF (SIXTEEN) LIMITED (08 Dec 2000 - 30 Jan 2002)"
+Riverside West Car Park Limited,04117678,subsidiary,100,St George,active,"Riverside West, Wandsworth SW18 (legacy) | agent of St George South London Ltd | prev: ST GEORGE WHARF (SIX) LIMITED (30 Nov 2000 - 23 Jan 2001)"
+St George (Crawford Street) Limited,03893055,subsidiary,100,St George,active,prev: DEANTRACK LIMITED (13 Dec 1999 - 04 Feb 2000)
+St George (Queenstown Place) Limited,03893274,subsidiary,100,St George,active,prev: TIMEMILE LIMITED (13 Dec 1999 - 28 Jan 2000)
+St George Battersea Reach Limited,FC025684 / BR007963,subsidiary (non-UK),100,St George,open,"Battersea Reach, Wandsworth SW18 (legacy)"
+St George Blackfriars Limited,05383584,subsidiary,100,St George,active,prev: BERKELEY EIGHTY-FOUR LIMITED (04 Mar 2005 - 14 Mar 2013)
+St George Central London Limited,04062420,subsidiary,100,St George,active,agent of St George plc
+St George City Limited,05383568,subsidiary,100,St George,active,agent of St George plc | prev: BERKELEY EIGHTY-SIX LIMITED (04 Mar 2005 - 28 Jan 2014)
+St George Commercial Limited,02140963,subsidiary,100,St George,active,prev: ST GEORGE (COMMERCIAL) LIMITED (18 Nov 1987 - 22 Nov 1999); INTERCEDE 466 LIMITED (18 Jun 1987 - 18 Nov 1987)
+St George Developments Limited,05383543,subsidiary,100,St George,active,agent of St George plc | prev: BERKELEY EIGHTY-NINE LIMITED (04 Mar 2005 - 11 May 2015)
+St George Ealing Limited,08574889,subsidiary,100,St George,active,prev: LS EALING LEISURE LIMITED (18 Jun 2013 - 23 Aug 2016)
+St George Kings Cross Limited,04158162,subsidiary,100,St George,active,agent of St George plc
+St George North London Limited,02899017,subsidiary,100,St George,active,agent of St George plc | prev: INTERCEDE 1076 LIMITED (16 Feb 1994 - 14 Jun 1994)
+St George Northfields Limited,05383528,subsidiary,100,St George,active,"Grand Union, Alperton HA0 (Brent) | prev: BERKELEY NINETY LIMITED (04 Mar 2005 - 18 Nov 2016)"
+St George Project Management Limited,02444193,subsidiary,100,St George,active,prev: INTERCEDE 772 LIMITED (17 Nov 1989 - 13 Mar 1990)
+St George Real Estate Limited,03167066,subsidiary,100,St George,active,prev: ST GEORGE DEVELOPMENTS LTD (01 May 1997 - 11 May 2015); ST. GEORGE WEST LONDON LTD (28 Apr 1997 - 01 May 1997); ST. GEORGE WEST LONDON LTD (10 Jun 1996 - 28 Apr 1997); INTERCEDE 1173 LIMITED (04 Mar 1996 - 10 Jun 1996)
+St George Regeneration Limited,03740758,subsidiary,100,St George,active,prev: ST GEORGE URBAN REGENERATION LIMITED (25 Mar 1999 - 18 Jun 1999)
+St George South London Ltd,02902274,subsidiary,100,St George,active,agent of St George plc | prev: ST. GEORGE (SPITALFIELDS) LIMITED (15 Apr 1994 - 29 Apr 1996); FRAMEPATH LIMITED (24 Feb 1994 - 15 Apr 1994)
+St George South and Central London Limited,02238496,subsidiary,100,St George,active,agent of St George plc | prev: ST. GEORGE NORTHERN LTD (09 Jun 1988 - 12 Dec 2006); INTERCEDE 549 LIMITED (31 Mar 1988 - 09 Jun 1988)
+St George West London Ltd,01910542,subsidiary,100,St George,active,agent of St George plc | prev: ST. GEORGE DEVELOPMENTS LTD (28 Apr 1997 - 01 May 1997); ST. GEORGE DEVELOPMENTS LTD (11 Jul 1991 - 28 Apr 1997); ST. GEORGE PLC (01 Aug 1987 - 11 Jul 1991); BERKELEY SPEYHAWK LIMITED (15 Nov 1985 - 01 Aug 1987); OCEANHARP LIMITED (02 May 1985 - 15 Nov 1985)
+St George Wharf (Block B) Limited,04121595,subsidiary,100,St George,active,"St George Wharf, Vauxhall SW8 (legacy) | agent of St George South London Ltd"
+St George Wharf (Block C) Limited,04121641,subsidiary,100,St George,active,"St George Wharf, Vauxhall SW8 (legacy) | agent of St George South London Ltd"
+St George Wharf Car Park Limited,04117795,subsidiary,100,St George,active,"St George Wharf, Vauxhall SW8 (legacy) | agent of St George South London Ltd | prev: ST GEORGE WHARF (FIVE) LIMITED (30 Nov 2000 - 23 Jan 2001)"
+St George Wharf Hotel Limited,03994979,subsidiary,100,St George,active,"St George Wharf, Vauxhall SW8 (legacy) | prev: CRAFTGLADE LIMITED (16 May 2000 - 10 Oct 2000)"
+St George plc,02590468,subsidiary,100,St George,active,prev: YEARFIRST PUBLIC LIMITED COMPANY (11 Mar 1991 - 11 Jul 1991)
+St. George Eastern Limited,02238118,subsidiary,100,St George,active,prev: INTERCEDE 548 LIMITED (31 Mar 1988 - 09 Jun 1988)
+St. George Inner Cities Ltd,02239108,subsidiary,100,St George,active,prev: INTERCEDE 537 LIMITED (04 Apr 1988 - 17 May 1988)
+St. George Investments Ltd,02238498,subsidiary,100,St George,active,prev: INTERCEDE 551 LIMITED (31 Mar 1988 - 09 Jun 1988)
+St. George London Ltd,02238119,subsidiary,100,St George,active,prev: INTERCEDE 552 LIMITED (31 Mar 1988 - 09 Jun 1988)
+St. George Partnerships Ltd,02667198,subsidiary,100,St George,active,
+St. George Properties Ltd,02489326,subsidiary,100,St George,active,prev: ST GEORGE DEVELOPMENTS LIMITED (21 Nov 1990 - 11 Jul 1991); INTERCEDE 838 LIMITED (05 Apr 1990 - 21 Nov 1990)
+St. George Southern Ltd,02238228,subsidiary,100,St George,active,prev: INTERCEDE 550 LIMITED (31 Mar 1988 - 09 Jun 1988)
+St. George Western Ltd,02238232,subsidiary,100,St George,active,prev: INTERCEDE 547 LIMITED (31 Mar 1988 - 09 Jun 1988)
+St. George Wharf (Block D) Commercial Limited,04125896,subsidiary,100,St George,active,"St George Wharf, Vauxhall SW8 (legacy) | agent of St George South London Ltd"
+St. George’s Hill Property Company Limited,01519247,subsidiary,100,St George,active,prev: REDWOOL LIMITED (29 Sep 1980 - 31 Dec 1981)
+"The Tower, One St George Wharf Limited",04504912,subsidiary,100,St George,active,"St George Wharf, Vauxhall SW8 (legacy) | prev: BERKELEY GEMINI LIMITED (06 Aug 2002 - 01 Jul 2011)"
+SEGRO V-Park Grand Union LLP,OC439470,JV,50,St George (JV with SEGRO),active,"Grand Union, Alperton/Park Royal (Brent) - industrial V-Park"
+St George Little Britain (No. 1) Limited,02825533,JV,50,St George (JV),active,prev: WIMPEY LITTLE BRITAIN (NO.3) LIMITED (24 Nov 1993 - 23 Jan 1995); GW SHELFCO 10 LIMITED (09 Jun 1993 - 24 Nov 1993)
+St George Little Britain (No.2) Limited,02867451,JV,50,St George (JV),active,prev: WIMPEY LITTLE BRITAIN (NO.4) LIMITED (25 Nov 1993 - 13 Jan 1995); G.W. SHELFCO 11 LIMITED (29 Oct 1993 - 25 Nov 1993)
+Real Star Investments Limited,,subsidiary (non-UK),100,St James,,
+St James Group Limited,03190056,subsidiary,100,St James,active,prev: ST JAMES HOMES LIMITED (24 May 1996 - 01 Oct 2002); ELECTARCH LIMITED (24 Apr 1996 - 24 May 1996)
+St James Homes (Grosvenor Dock) Limited,04121676,subsidiary,100,St James,active,
+St James Homes Limited,04085303,subsidiary,100,St James,active,prev: ST JAMES GROUP LIMITED (30 May 2002 - 01 Oct 2002); MAGIC TORCH DEVELOPMENTS LIMITED (03 Oct 2000 - 30 May 2002)
+St Joseph Homes Limited,09277367,subsidiary,100,St Joseph,active,agent of Berkeley Homes Public Limited Company | prev: BERKELEY TWO HUNDRED AND FOUR LIMITED (23 Oct 2014 - 04 Aug 2016)
+St William Eight Limited,10963086,subsidiary,100,St William,active,
+St William Eighteen Limited,11388101,subsidiary,100,St William,active,
+St William Eleven Limited,10984177,subsidiary,100,St William,active,
+St William Fifteen Limited,10983273,subsidiary,100,St William,active,
+St William Five Limited,10959284,subsidiary,100,St William,active,
+St William Four Limited,10754434,subsidiary,100,St William,active,
+St William Fourteen Limited,10982759,subsidiary,100,St William,active,
+St William Holdings Limited,11383395,subsidiary,100,St William,active,
+St William Homes LLP,OC396332,subsidiary,100,St William,active,prev: BERKELEY AUGUSTA LLP (07 Nov 2014 - 07 Nov 2014)
+St William Nine Limited,10974236,subsidiary,100,St William,active,
+St William Nineteen Limited,11388106,subsidiary,100,St William,active,
+St William One Ltd,10752903,subsidiary,100,St William,active,
+St William Seven Limited,10963080,subsidiary,100,St William,active,
+St William Seventeen Limited,11384969,subsidiary,100,St William,active,
+St William Six Limited,10963045,subsidiary,100,St William,active,
+St William Sixteen Limited,10983401,subsidiary,100,St William,active,
+St William Ten Limited,10979377,subsidiary,100,St William,active,
+St William Thirteen Limited,10974249,subsidiary,100,St William,active,
+St William Three Limited,10754438,subsidiary,100,St William,active,
+St William Twelve Limited,10982707,subsidiary,100,St William,active,
+St William Twenty Limited,11388075,subsidiary,100,St William,active,
+St William Twenty-Eight Limited,11390399,subsidiary,100,St William,active,
+St William Twenty-Five Limited,11385088,subsidiary,100,St William,active,
+St William Twenty-Four Limited,11390215,subsidiary,100,St William,active,
+St William Twenty-One Limited,11385063,subsidiary,100,St William,active,
+St William Twenty-Seven Limited,11390369,subsidiary,100,St William,active,
+St William Twenty-Six Limited,11390327,subsidiary,100,St William,active,
+St William Twenty-Three Limited,11390273,subsidiary,100,St William,active,
+St William Twenty-Two Limited,11390248,subsidiary,100,St William,active,
+St William Two Limited,10754436,subsidiary,100,St William,active,

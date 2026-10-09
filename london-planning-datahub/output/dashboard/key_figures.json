@@ -1,0 +1,398 @@
+[
+ {
+  "id": "lon_apps_2019_21",
+  "value": 528,
+  "unit": "count",
+  "label": "Major housing applications a year, 2019-21 average"
+ },
+ {
+  "id": "lon_apps_2025",
+  "value": 273,
+  "unit": "count",
+  "label": "Major housing applications, 2025"
+ },
+ {
+  "id": "lon_apps_change",
+  "value": -48.3,
+  "unit": "pct",
+  "label": "Change in major housing applications, 2025 vs 2019-21 average"
+ },
+ {
+  "id": "lon_homes_2019_21",
+  "value": 79301,
+  "unit": "count",
+  "label": "Homes in major housing applications a year, 2019-21 average"
+ },
+ {
+  "id": "lon_homes_2025",
+  "value": 44863,
+  "unit": "count",
+  "label": "Homes in major housing applications, 2025"
+ },
+ {
+  "id": "lon_days_2019",
+  "value": 200,
+  "unit": "days",
+  "label": "Median days to decide a major housing application, 2019"
+ },
+ {
+  "id": "lon_approval_2019",
+  "value": 86.6,
+  "unit": "pct",
+  "label": "Share of major housing decisions approved, 2019"
+ },
+ {
+  "id": "lon_days_2025",
+  "value": 412,
+  "unit": "days",
+  "label": "Median days to decide a major housing application, 2025"
+ },
+ {
+  "id": "lon_approval_2025",
+  "value": 77.1,
+  "unit": "pct",
+  "label": "Share of major housing decisions approved, 2025"
+ },
+ {
+  "id": "lon_approval_2023",
+  "value": 65.8,
+  "unit": "pct",
+  "label": "Share of major housing decisions approved, 2023"
+ },
+ {
+  "id": "lon_btr_2019",
+  "value": 2.4,
+  "unit": "pct",
+  "label": "Build-to-rent share of homes in major applications, 2019"
+ },
+ {
+  "id": "lon_sale_2019",
+  "value": 58.7,
+  "unit": "pct",
+  "label": "Market-sale share of homes in major applications, 2019"
+ },
+ {
+  "id": "lon_btr_2025",
+  "value": 39.8,
+  "unit": "pct",
+  "label": "Build-to-rent share of homes in major applications, 2025"
+ },
+ {
+  "id": "lon_sale_2025",
+  "value": 27.8,
+  "unit": "pct",
+  "label": "Market-sale share of homes in major applications, 2025"
+ },
+ {
+  "id": "bkg_h1_2026",
+  "value": 160,
+  "unit": "count",
+  "label": "Applications on Berkeley sites, Jan-Jun 2026"
+ },
+ {
+  "id": "bkg_h1_2025",
+  "value": 160,
+  "unit": "count",
+  "label": "Applications on Berkeley sites, Jan-Jun 2025"
+ },
+ {
+  "id": "bkg_h1_peak",
+  "value": 217,
+  "unit": "count",
+  "label": "Applications on Berkeley sites, Jan-Jun 2021 (peak)"
+ },
+ {
+  "id": "bkg_h1_peak_year",
+  "value": 2021,
+  "unit": "year",
+  "label": "Year of peak Jan-Jun Berkeley applications"
+ },
+ {
+  "id": "bkg_h1_change_peak",
+  "value": -26.3,
+  "unit": "pct",
+  "label": "Change in Berkeley applications, Jan-Jun 2026 vs Jan-Jun 2021"
+ },
+ {
+  "id": "bkg_cond_2026",
+  "value": 130,
+  "unit": "count",
+  "label": "Condition discharges on Berkeley sites, Jan-Jun 2026"
+ },
+ {
+  "id": "bkg_cond_peak",
+  "value": 167,
+  "unit": "count",
+  "label": "Most condition discharges on Berkeley sites in any Jan-Jun, 2019-25"
+ },
+ {
+  "id": "bkg_cond_change",
+  "value": -22.2,
+  "unit": "pct",
+  "label": "Change in condition discharges, Jan-Jun 2026 vs the 2019-25 high"
+ },
+ {
+  "id": "bkg_cond_low",
+  "value": 125,
+  "unit": "count",
+  "label": "Fewest condition discharges on Berkeley sites in any Jan-Jun, 2019-25"
+ },
+ {
+  "id": "bkg_ytd_2026",
+  "value": 202,
+  "unit": "count",
+  "label": "Applications on Berkeley sites, Jan-Sep 2026 (affected by reporting lag)"
+ },
+ {
+  "id": "bkg_ytd_2025",
+  "value": 241,
+  "unit": "count",
+  "label": "Applications on Berkeley sites, Jan-Sep 2025"
+ },
+ {
+  "id": "lon_aug_sep_2026",
+  "value": 5888,
+  "unit": "count",
+  "label": "London applications a month, Aug-Sep 2026 (still being loaded)"
+ },
+ {
+  "id": "lon_monthly_2025",
+  "value": 8632,
+  "unit": "count",
+  "label": "London applications a month, 2025 average"
+ },
+ {
+  "id": "bkg_homes_2019_22",
+  "value": 9671,
+  "unit": "count",
+  "label": "Homes in new Berkeley schemes applied for, 2019-22"
+ },
+ {
+  "id": "bkg_homes_2023_25",
+  "value": 24704,
+  "unit": "count",
+  "label": "Homes in new Berkeley schemes applied for, 2023-25"
+ },
+ {
+  "id": "bkg_share_2019_22",
+  "value": 3.2,
+  "unit": "pct",
+  "label": "Berkeley share of homes in new London major applications, 2019-22"
+ },
+ {
+  "id": "bkg_share_2023_25",
+  "value": 15.9,
+  "unit": "pct",
+  "label": "Berkeley share of homes in new London major applications, 2023-25"
+ },
+ {
+  "id": "bkg_pending_apps",
+  "value": 8,
+  "unit": "count",
+  "label": "Large Berkeley applications awaiting a decision"
+ },
+ {
+  "id": "bkg_pending_homes",
+  "value": 12547,
+  "unit": "count",
+  "label": "Homes in large Berkeley applications awaiting a decision"
+ },
+ {
+  "id": "beckton_homes",
+  "value": 5776,
+  "unit": "count",
+  "label": "Homes in the Beckton Riverside outline application"
+ },
+ {
+  "id": "beckton_days",
+  "value": 714,
+  "unit": "days",
+  "label": "Days the Beckton Riverside outline has been awaiting a decision"
+ },
+ {
+  "id": "fire_bkg_2023_26",
+  "value": 25,
+  "unit": "count",
+  "label": "Berkeley second-staircase / fire-safety amendments, 2023 to Sep 2026"
+ },
+ {
+  "id": "fire_bkg_2019_22",
+  "value": 2,
+  "unit": "count",
+  "label": "Berkeley second-staircase / fire-safety amendments, 2019-22"
+ },
+ {
+  "id": "fire_bkg_share",
+  "value": 5.6,
+  "unit": "pct",
+  "label": "Berkeley share of London's second-staircase / fire-safety amendments, 2023 to Sep 2026"
+ },
+ {
+  "id": "amend_bkg_share",
+  "value": 1.3,
+  "unit": "pct",
+  "label": "Berkeley share of all London amendments (S73 and NMA), 2023 to Sep 2026"
+ },
+ {
+  "id": "fire_bkg_schemes",
+  "value": 11,
+  "unit": "count",
+  "label": "Berkeley schemes with a second-staircase / fire-safety amendment since 2023"
+ },
+ {
+  "id": "tall_london",
+  "value": 82.3,
+  "unit": "pct",
+  "label": "Share of London 100+ home applications with a building of 7+ storeys (2021-26)"
+ },
+ {
+  "id": "tall_berkeley",
+  "value": 91.4,
+  "unit": "pct",
+  "label": "Share of Berkeley 100+ home applications with a building of 7+ storeys (2019-26)"
+ },
+ {
+  "id": "st_william_share",
+  "value": 24.1,
+  "unit": "pct",
+  "label": "St William (former gasworks) share of Berkeley applications, 2019-26 average"
+ },
+ {
+  "id": "bkg_schemes",
+  "value": 46,
+  "unit": "count",
+  "label": "Berkeley schemes with applications since 2019"
+ },
+ {
+  "id": "peers_bkg_share",
+  "value": 78.3,
+  "unit": "pct",
+  "label": "Berkeley share of homes in named listed-builder major applications, 2023-25"
+ },
+ {
+  "id": "dq_dev_2025",
+  "value": 33.3,
+  "unit": "pct",
+  "label": "Major housing applications naming the developer, 2025"
+ },
+ {
+  "id": "dq_homes_blank_2019",
+  "value": 44.0,
+  "unit": "pct",
+  "label": "Major housing applications with the homes field blank, 2019"
+ },
+ {
+  "id": "dq_homes_blank_2025",
+  "value": 15.4,
+  "unit": "pct",
+  "label": "Major housing applications with the homes field blank, 2025"
+ },
+ {
+  "id": "dq_dev_2019",
+  "value": 12.2,
+  "unit": "pct",
+  "label": "Major housing applications naming the developer, 2019"
+ },
+ {
+  "id": "dq_type_2019",
+  "value": 6.8,
+  "unit": "pct",
+  "label": "Applications with a detailed type, 2019"
+ },
+ {
+  "id": "dq_type_2025",
+  "value": 91.8,
+  "unit": "pct",
+  "label": "Applications with a detailed type, 2025"
+ },
+ {
+  "id": "dq_records",
+  "value": 1288899,
+  "unit": "count",
+  "label": "Records in the Datahub extract"
+ },
+ {
+  "id": "dq_lpas",
+  "value": 36,
+  "unit": "count",
+  "label": "Planning authorities in the extract"
+ },
+ {
+  "id": "dq_bad_coords",
+  "value": 114330,
+  "unit": "count",
+  "label": "Records with coordinates outside London"
+ },
+ {
+  "id": "dq_bad_coords_pct",
+  "value": 8.9,
+  "unit": "pct",
+  "label": "Share of records with coordinates outside London"
+ },
+ {
+  "id": "dq_decision_codes",
+  "value": 116,
+  "unit": "count",
+  "label": "Distinct decision values"
+ },
+ {
+  "id": "dq_borough_names",
+  "value": 157,
+  "unit": "count",
+  "label": "Distinct spellings in the borough field"
+ },
+ {
+  "id": "dq_consultations",
+  "value": 61512,
+  "unit": "count",
+  "label": "Records that are another borough's consultation response"
+ },
+ {
+  "id": "dq_preapp",
+  "value": 493,
+  "unit": "count",
+  "label": "Pre-application advice records"
+ },
+ {
+  "id": "tier_named",
+  "value": 104,
+  "unit": "count",
+  "label": "Berkeley applications naming a Berkeley company"
+ },
+ {
+  "id": "tier_curated",
+  "value": 39,
+  "unit": "count",
+  "label": "Berkeley head permissions added from verified scheme list"
+ },
+ {
+  "id": "tier_linked",
+  "value": 2909,
+  "unit": "count",
+  "label": "Applications linked to Berkeley permissions by reference number"
+ },
+ {
+  "id": "bkg_apps_2019",
+  "value": 3052,
+  "unit": "count",
+  "label": "Applications on Berkeley sites since 2019"
+ },
+ {
+  "id": "entities",
+  "value": 503,
+  "unit": "count",
+  "label": "Berkeley Group companies checked"
+ },
+ {
+  "id": "entity_prev_names",
+  "value": 273,
+  "unit": "count",
+  "label": "Former company names checked"
+ },
+ {
+  "id": "ref_links",
+  "value": 191216,
+  "unit": "count",
+  "label": "Reference-number links between applications"
+ }
+]

@@ -1,0 +1,416 @@
+[
+ {
+  "scheme": "King's Road Park (Fulham Gasworks)",
+  "brand": "St William",
+  "borough": "Hammersmith & Fulham",
+  "applications": 319,
+  "first_application": "2019-02-06",
+  "latest_application": "2026-09-14",
+  "largest_permission_homes": 1843.0
+ },
+ {
+  "scheme": "Kidbrooke Village",
+  "brand": "Berkeley Homes",
+  "borough": "Greenwich",
+  "applications": 318,
+  "first_application": "2019-01-14",
+  "latest_application": "2026-03-06",
+  "largest_permission_homes": 4000.0
+ },
+ {
+  "scheme": "Oval Village",
+  "brand": "Berkeley Homes",
+  "borough": "Lambeth",
+  "applications": 207,
+  "first_application": "2019-01-15",
+  "latest_application": "2026-07-08",
+  "largest_permission_homes": 738.0
+ },
+ {
+  "scheme": "Alexandra Gate (Clarendon)",
+  "brand": "St William",
+  "borough": "Haringey",
+  "applications": 202,
+  "first_application": "2019-01-11",
+  "latest_application": "2026-03-03",
+  "largest_permission_homes": 1644.0
+ },
+ {
+  "scheme": "London Dock",
+  "brand": "St George",
+  "borough": "Tower Hamlets",
+  "applications": 182,
+  "first_application": "2019-01-11",
+  "latest_application": "2026-01-30",
+  "largest_permission_homes": 1800.0
+ },
+ {
+  "scheme": "Lombard Square",
+  "brand": "Berkeley Homes",
+  "borough": "Greenwich",
+  "applications": 141,
+  "first_application": "2020-02-14",
+  "latest_application": "2026-03-17",
+  "largest_permission_homes": 1913.0
+ },
+ {
+  "scheme": "The Green Quarter",
+  "brand": "Berkeley Homes",
+  "borough": "Ealing",
+  "applications": 141,
+  "first_application": "2019-02-01",
+  "latest_application": "2026-09-03",
+  "largest_permission_homes": 5566.0
+ },
+ {
+  "scheme": "White City Living",
+  "brand": "St James",
+  "borough": "Hammersmith & Fulham",
+  "applications": 130,
+  "first_application": "2019-01-22",
+  "latest_application": "2026-09-07",
+  "largest_permission_homes": 2030.0
+ },
+ {
+  "scheme": "Royal Arsenal Riverside",
+  "brand": "Berkeley Homes",
+  "borough": "Greenwich",
+  "applications": 127,
+  "first_application": "2019-02-12",
+  "latest_application": "2026-02-12",
+  "largest_permission_homes": 3258.0
+ },
+ {
+  "scheme": "West End Gate",
+  "brand": "Berkeley Homes",
+  "borough": "Westminster",
+  "applications": 122,
+  "first_application": "2019-02-19",
+  "latest_application": "2026-09-22",
+  "largest_permission_homes": 683.0
+ },
+ {
+  "scheme": "TwelveTrees Park",
+  "brand": "Berkeley Homes",
+  "borough": "Newham",
+  "applications": 108,
+  "first_application": "2019-02-15",
+  "latest_application": "2026-09-10",
+  "largest_permission_homes": 3810.0
+ },
+ {
+  "scheme": "Heron Wharf (Poplar gasholders)",
+  "brand": "St William",
+  "borough": "Tower Hamlets",
+  "applications": 107,
+  "first_application": "2019-12-13",
+  "latest_application": "2026-04-07",
+  "largest_permission_homes": 2800.0
+ },
+ {
+  "scheme": "Trent Park",
+  "brand": "Berkeley Homes",
+  "borough": "Enfield",
+  "applications": 89,
+  "first_application": "2019-01-11",
+  "latest_application": "2026-07-30",
+  "largest_permission_homes": 262.0
+ },
+ {
+  "scheme": "Grand Union",
+  "brand": "St George",
+  "borough": "Brent",
+  "applications": 83,
+  "first_application": "2019-02-07",
+  "latest_application": "2026-04-28",
+  "largest_permission_homes": 3030.0
+ },
+ {
+  "scheme": "South Quay Plaza",
+  "brand": "Berkeley Homes",
+  "borough": "Tower Hamlets",
+  "applications": 72,
+  "first_application": "2019-01-02",
+  "latest_application": "2026-01-26",
+  "largest_permission_homes": 934.0
+ },
+ {
+  "scheme": "Fulham Reach",
+  "brand": "St George",
+  "borough": "Hammersmith & Fulham",
+  "applications": 70,
+  "first_application": "2019-03-21",
+  "latest_application": "2026-06-22",
+  "largest_permission_homes": 840.0
+ },
+ {
+  "scheme": "Bow Green (Bow Common gasworks)",
+  "brand": "St James",
+  "borough": "Tower Hamlets",
+  "applications": 66,
+  "first_application": "2019-10-30",
+  "latest_application": "2026-03-12",
+  "largest_permission_homes": 794.0
+ },
+ {
+  "scheme": "Regent's View",
+  "brand": "St William",
+  "borough": "Tower Hamlets",
+  "applications": 66,
+  "first_application": "2019-05-24",
+  "latest_application": "2026-03-30",
+  "largest_permission_homes": 650.0
+ },
+ {
+  "scheme": "Wandsworth Mills (Ram Brewery)",
+  "brand": "St George",
+  "borough": "Wandsworth",
+  "applications": 55,
+  "first_application": "2022-01-25",
+  "latest_application": "2026-08-06",
+  "largest_permission_homes": 661.0
+ },
+ {
+  "scheme": "Woodberry Down",
+  "brand": "Berkeley Homes",
+  "borough": "Hackney",
+  "applications": 54,
+  "first_application": "2019-07-17",
+  "latest_application": "2026-09-04",
+  "largest_permission_homes": 4684.0
+ },
+ {
+  "scheme": "Beaufort Park",
+  "brand": "St George",
+  "borough": "Barnet",
+  "applications": 49,
+  "first_application": "2019-03-06",
+  "latest_application": "2026-09-08",
+  "largest_permission_homes": 2800.0
+ },
+ {
+  "scheme": "Ergon House",
+  "brand": "St Edward",
+  "borough": "Westminster",
+  "applications": 48,
+  "first_application": "2019-01-15",
+  "latest_application": "2024-10-31",
+  "largest_permission_homes": 108.0
+ },
+ {
+  "scheme": "Silkstream",
+  "brand": "St George",
+  "borough": "Barnet",
+  "applications": 47,
+  "first_application": "2019-08-21",
+  "latest_application": "2026-06-29",
+  "largest_permission_homes": 1309.0
+ },
+ {
+  "scheme": "Trillium (Paddington Green)",
+  "brand": "Berkeley Homes",
+  "borough": "Westminster",
+  "applications": 39,
+  "first_application": "2021-04-09",
+  "latest_application": "2026-09-24",
+  "largest_permission_homes": 556.0
+ },
+ {
+  "scheme": "Bermondsey Place",
+  "brand": "Berkeley Homes",
+  "borough": "Southwark",
+  "applications": 38,
+  "first_application": "2019-10-31",
+  "latest_application": "2026-08-05",
+  "largest_permission_homes": 1056.0
+ },
+ {
+  "scheme": "Prince of Wales Drive",
+  "brand": "St James",
+  "borough": "Wandsworth",
+  "applications": 33,
+  "first_application": "2020-12-18",
+  "latest_application": "2026-06-26",
+  "largest_permission_homes": 839.0
+ },
+ {
+  "scheme": "Camden Goods Yard",
+  "brand": "St George",
+  "borough": "Camden",
+  "applications": 22,
+  "first_application": "2020-07-23",
+  "latest_application": "2026-07-07",
+  "largest_permission_homes": 573.0
+ },
+ {
+  "scheme": "The Dumont",
+  "brand": "St James",
+  "borough": "Lambeth",
+  "applications": 21,
+  "first_application": "2019-03-19",
+  "latest_application": "2021-02-18",
+  "largest_permission_homes": 186.0
+ },
+ {
+  "scheme": "Bromley-by-Bow gasworks",
+  "brand": "St William",
+  "borough": "Newham",
+  "applications": 17,
+  "first_application": "2023-09-18",
+  "latest_application": "2025-11-12",
+  "largest_permission_homes": 2200.0
+ },
+ {
+  "scheme": "Sutton Garden Square (former B&Q)",
+  "brand": "St George",
+  "borough": "Sutton",
+  "applications": 16,
+  "first_application": "2022-12-19",
+  "latest_application": "2026-07-20",
+  "largest_permission_homes": 1054.0
+ },
+ {
+  "scheme": "Borough Triangle",
+  "brand": "Berkeley Homes",
+  "borough": "Southwark",
+  "applications": 13,
+  "first_application": "2022-09-23",
+  "latest_application": "2026-03-18",
+  "largest_permission_homes": 892.0
+ },
+ {
+  "scheme": "Goodman's Fields",
+  "brand": "Berkeley Homes",
+  "borough": "Tower Hamlets",
+  "applications": 10,
+  "first_application": "2019-02-22",
+  "latest_application": "2022-05-24",
+  "largest_permission_homes": 864.0
+ },
+ {
+  "scheme": "Aylesham Centre",
+  "brand": "Berkeley Homes",
+  "borough": "Southwark",
+  "applications": 5,
+  "first_application": "2020-03-12",
+  "latest_application": "2025-10-03",
+  "largest_permission_homes": 1000.0
+ },
+ {
+  "scheme": "250 City Road",
+  "brand": "Berkeley Homes",
+  "borough": "Islington",
+  "applications": 5,
+  "first_application": "2020-06-15",
+  "latest_application": "2026-03-16",
+  "largest_permission_homes": 1000.0
+ },
+ {
+  "scheme": "Dickens Yard",
+  "brand": "St George",
+  "borough": "Ealing",
+  "applications": 5,
+  "first_application": "2019-06-12",
+  "latest_application": "2021-02-01",
+  "largest_permission_homes": 698.0
+ },
+ {
+  "scheme": "Lea Bridge",
+  "brand": "St William",
+  "borough": "Waltham Forest",
+  "applications": 3,
+  "first_application": "2020-05-07",
+  "latest_application": "2026-01-27",
+  "largest_permission_homes": 652.0
+ },
+ {
+  "scheme": "Battersea Reach",
+  "brand": "St George",
+  "borough": "Wandsworth",
+  "applications": 3,
+  "first_application": "2021-11-17",
+  "latest_application": "2026-09-01",
+  "largest_permission_homes": 758.0
+ },
+ {
+  "scheme": "Seagas House",
+  "brand": "St William",
+  "borough": "Merton",
+  "applications": 2,
+  "first_application": "2023-08-08",
+  "latest_application": "2025-04-22",
+  "largest_permission_homes": 596.0
+ },
+ {
+  "scheme": "Beckton Riverside (Gallions Reach)",
+  "brand": "St William",
+  "borough": "Newham",
+  "applications": 2,
+  "first_application": "2024-10-25",
+  "latest_application": "2024-10-25",
+  "largest_permission_homes": 5776.0
+ },
+ {
+  "scheme": "Kensal Canalside (Kensal gasworks)",
+  "brand": "St William",
+  "borough": "Kensington & Chelsea",
+  "applications": 2,
+  "first_application": "2025-07-09",
+  "latest_application": "2025-07-09",
+  "largest_permission_homes": 698.0
+ },
+ {
+  "scheme": "New Barnet gasworks",
+  "brand": "St William",
+  "borough": "Barnet",
+  "applications": 2,
+  "first_application": "2025-05-27",
+  "latest_application": "2025-11-04",
+  "largest_permission_homes": 80.0
+ },
+ {
+  "scheme": "East Ham gasholder",
+  "brand": "St William",
+  "borough": "Newham",
+  "applications": 1,
+  "first_application": "2026-02-04",
+  "latest_application": "2026-02-04",
+  "largest_permission_homes": null
+ },
+ {
+  "scheme": "Riverlight",
+  "brand": "St James",
+  "borough": "Wandsworth",
+  "applications": 1,
+  "first_application": "2024-10-21",
+  "latest_application": "2024-10-21",
+  "largest_permission_homes": 813.0
+ },
+ {
+  "scheme": "Motspur Park gasholders",
+  "brand": "Berkeley Homes",
+  "borough": "Kingston",
+  "applications": 1,
+  "first_application": "2025-10-02",
+  "latest_application": "2025-10-02",
+  "largest_permission_homes": 585.0
+ },
+ {
+  "scheme": "Syon Lane (Tesco Osterley)",
+  "brand": "St Edward",
+  "borough": "Hounslow",
+  "applications": 1,
+  "first_application": "2020-09-18",
+  "latest_application": "2020-09-18",
+  "largest_permission_homes": 1677.0
+ },
+ {
+  "scheme": "Stratford gasworks",
+  "brand": "St William",
+  "borough": "Newham",
+  "applications": 1,
+  "first_application": "2024-01-19",
+  "latest_application": "2024-01-19",
+  "largest_permission_homes": 245.0
+ }
+]

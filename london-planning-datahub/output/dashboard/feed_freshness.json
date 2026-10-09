@@ -1,0 +1,218 @@
+[
+ {
+  "authority": "LLDC",
+  "latest_application": "2024-10-24",
+  "days_behind": 715,
+  "records": 3526
+ },
+ {
+  "authority": "Bromley",
+  "latest_application": "2025-07-03",
+  "days_behind": 463,
+  "records": 41099
+ },
+ {
+  "authority": "Brent",
+  "latest_application": "2026-05-11",
+  "days_behind": 151,
+  "records": 35322
+ },
+ {
+  "authority": "Kensington & Chelsea",
+  "latest_application": "2026-06-24",
+  "days_behind": 107,
+  "records": 39606
+ },
+ {
+  "authority": "Ealing",
+  "latest_application": "2026-09-10",
+  "days_behind": 29,
+  "records": 83960
+ },
+ {
+  "authority": "Wandsworth",
+  "latest_application": "2026-09-10",
+  "days_behind": 29,
+  "records": 35596
+ },
+ {
+  "authority": "Hillingdon",
+  "latest_application": "2026-09-21",
+  "days_behind": 18,
+  "records": 33525
+ },
+ {
+  "authority": "Tower Hamlets",
+  "latest_application": "2026-09-22",
+  "days_behind": 17,
+  "records": 28716
+ },
+ {
+  "authority": "Greenwich",
+  "latest_application": "2026-09-25",
+  "days_behind": 14,
+  "records": 25401
+ },
+ {
+  "authority": "Merton",
+  "latest_application": "2026-09-28",
+  "days_behind": 11,
+  "records": 21105
+ },
+ {
+  "authority": "Havering",
+  "latest_application": "2026-09-28",
+  "days_behind": 11,
+  "records": 28066
+ },
+ {
+  "authority": "OSDC",
+  "latest_application": "2026-09-30",
+  "days_behind": 9,
+  "records": 35
+ },
+ {
+  "authority": "Barking & Dagenham",
+  "latest_application": "2026-10-01",
+  "days_behind": 8,
+  "records": 15157
+ },
+ {
+  "authority": "Harrow",
+  "latest_application": "2026-10-01",
+  "days_behind": 8,
+  "records": 20823
+ },
+ {
+  "authority": "Waltham Forest",
+  "latest_application": "2026-10-02",
+  "days_behind": 7,
+  "records": 27841
+ },
+ {
+  "authority": "Kingston",
+  "latest_application": "2026-10-05",
+  "days_behind": 4,
+  "records": 26220
+ },
+ {
+  "authority": "Hounslow",
+  "latest_application": "2026-10-07",
+  "days_behind": 2,
+  "records": 109183
+ },
+ {
+  "authority": "OPDC",
+  "latest_application": "2026-10-08",
+  "days_behind": 1,
+  "records": 2157
+ },
+ {
+  "authority": "Islington",
+  "latest_application": "2026-10-08",
+  "days_behind": 1,
+  "records": 130209
+ },
+ {
+  "authority": "Barnet",
+  "latest_application": "2026-10-08",
+  "days_behind": 1,
+  "records": 63973
+ },
+ {
+  "authority": "Croydon",
+  "latest_application": "2026-10-08",
+  "days_behind": 1,
+  "records": 43168
+ },
+ {
+  "authority": "Lambeth",
+  "latest_application": "2026-10-08",
+  "days_behind": 1,
+  "records": 37193
+ },
+ {
+  "authority": "City of London",
+  "latest_application": "2026-10-08",
+  "days_behind": 1,
+  "records": 12054
+ },
+ {
+  "authority": "Sutton",
+  "latest_application": "2026-10-08",
+  "days_behind": 1,
+  "records": 21692
+ },
+ {
+  "authority": "Haringey",
+  "latest_application": "2026-10-08",
+  "days_behind": 1,
+  "records": 27721
+ },
+ {
+  "authority": "Southwark",
+  "latest_application": "2026-10-08",
+  "days_behind": 1,
+  "records": 34651
+ },
+ {
+  "authority": "Redbridge",
+  "latest_application": "2026-10-08",
+  "days_behind": 1,
+  "records": 36914
+ },
+ {
+  "authority": "Richmond",
+  "latest_application": "2026-10-08",
+  "days_behind": 1,
+  "records": 39767
+ },
+ {
+  "authority": "Hackney",
+  "latest_application": "2026-10-29",
+  "days_behind": -20,
+  "records": 26328
+ },
+ {
+  "authority": "Lewisham",
+  "latest_application": "2026-11-17",
+  "days_behind": -39,
+  "records": 28278
+ },
+ {
+  "authority": "Hammersmith & Fulham",
+  "latest_application": "2026-11-19",
+  "days_behind": -41,
+  "records": 27521
+ },
+ {
+  "authority": "Bexley",
+  "latest_application": "2026-12-05",
+  "days_behind": -57,
+  "records": 23619
+ },
+ {
+  "authority": "Camden",
+  "latest_application": "2026-12-09",
+  "days_behind": -61,
+  "records": 24229
+ },
+ {
+  "authority": "Westminster",
+  "latest_application": "2026-12-16",
+  "days_behind": -68,
+  "records": 74408
+ },
+ {
+  "authority": "Enfield",
+  "latest_application": "2027-07-01",
+  "days_behind": -265,
+  "records": 34853
+ },
+ {
+  "authority": "Newham",
+  "latest_application": "2027-07-15",
+  "days_behind": -279,
+  "records": 24983
+ }
+]

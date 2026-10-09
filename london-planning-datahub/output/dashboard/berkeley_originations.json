@@ -1,0 +1,66 @@
+[
+ {
+  "year": 2019,
+  "berkeley_homes": 2537.0,
+  "berkeley_apps": 4.0,
+  "london_homes": 81769.0,
+  "berkeley_share_pct": 3.1,
+  "partial": false
+ },
+ {
+  "year": 2020,
+  "berkeley_homes": 4659.0,
+  "berkeley_apps": 5.0,
+  "london_homes": 74087.0,
+  "berkeley_share_pct": 6.3,
+  "partial": false
+ },
+ {
+  "year": 2021,
+  "berkeley_homes": 583.0,
+  "berkeley_apps": 2.0,
+  "london_homes": 82048.0,
+  "berkeley_share_pct": 0.7,
+  "partial": false
+ },
+ {
+  "year": 2022,
+  "berkeley_homes": 1892.0,
+  "berkeley_apps": 2.0,
+  "london_homes": 62459.0,
+  "berkeley_share_pct": 3.0,
+  "partial": false
+ },
+ {
+  "year": 2023,
+  "berkeley_homes": 11139.0,
+  "berkeley_apps": 7.0,
+  "london_homes": 45973.0,
+  "berkeley_share_pct": 24.2,
+  "partial": false
+ },
+ {
+  "year": 2024,
+  "berkeley_homes": 8063.0,
+  "berkeley_apps": 6.0,
+  "london_homes": 64862.0,
+  "berkeley_share_pct": 12.4,
+  "partial": false
+ },
+ {
+  "year": 2025,
+  "berkeley_homes": 5502.0,
+  "berkeley_apps": 5.0,
+  "london_homes": 44863.0,
+  "berkeley_share_pct": 12.3,
+  "partial": false
+ },
+ {
+  "year": 2026,
+  "berkeley_homes": 0.0,
+  "berkeley_apps": 0.0,
+  "london_homes": 18548.0,
+  "berkeley_share_pct": 0.0,
+  "partial": true
+ }
+]

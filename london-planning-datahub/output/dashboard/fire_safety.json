@@ -1,0 +1,74 @@
+[
+ {
+  "year": 2019,
+  "berkeley": 1,
+  "berkeley_all": 53,
+  "london": 38,
+  "london_all": 6050,
+  "berkeley_share_pct": 2.6,
+  "partial": false
+ },
+ {
+  "year": 2020,
+  "berkeley": 0,
+  "berkeley_all": 69,
+  "london": 45,
+  "london_all": 6066,
+  "berkeley_share_pct": 0.0,
+  "partial": false
+ },
+ {
+  "year": 2021,
+  "berkeley": 0,
+  "berkeley_all": 77,
+  "london": 50,
+  "london_all": 6829,
+  "berkeley_share_pct": 0.0,
+  "partial": false
+ },
+ {
+  "year": 2022,
+  "berkeley": 1,
+  "berkeley_all": 67,
+  "london": 68,
+  "london_all": 5997,
+  "berkeley_share_pct": 1.5,
+  "partial": false
+ },
+ {
+  "year": 2023,
+  "berkeley": 9,
+  "berkeley_all": 83,
+  "london": 144,
+  "london_all": 6022,
+  "berkeley_share_pct": 6.2,
+  "partial": false
+ },
+ {
+  "year": 2024,
+  "berkeley": 6,
+  "berkeley_all": 81,
+  "london": 134,
+  "london_all": 5516,
+  "berkeley_share_pct": 4.5,
+  "partial": false
+ },
+ {
+  "year": 2025,
+  "berkeley": 5,
+  "berkeley_all": 69,
+  "london": 99,
+  "london_all": 5325,
+  "berkeley_share_pct": 5.1,
+  "partial": false
+ },
+ {
+  "year": 2026,
+  "berkeley": 5,
+  "berkeley_all": 34,
+  "london": 67,
+  "london_all": 3227,
+  "berkeley_share_pct": 7.5,
+  "partial": true
+ }
+]

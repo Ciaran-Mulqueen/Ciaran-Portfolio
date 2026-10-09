@@ -1,0 +1,3 @@
+# Raw and processed extracts are large (~400 MB) and fully reproducible with src/fetch_all.py
+data/
+__pycache__/

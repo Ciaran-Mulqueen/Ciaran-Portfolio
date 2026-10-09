@@ -1,0 +1,66 @@
+[
+ {
+  "year": 2019,
+  "apps": 532,
+  "apps_50plus": 210,
+  "apps_150plus": 90,
+  "homes": 81769,
+  "partial": false
+ },
+ {
+  "year": 2020,
+  "apps": 522,
+  "apps_50plus": 212,
+  "apps_150plus": 94,
+  "homes": 74087,
+  "partial": false
+ },
+ {
+  "year": 2021,
+  "apps": 529,
+  "apps_50plus": 219,
+  "apps_150plus": 101,
+  "homes": 82048,
+  "partial": false
+ },
+ {
+  "year": 2022,
+  "apps": 394,
+  "apps_50plus": 158,
+  "apps_150plus": 80,
+  "homes": 62459,
+  "partial": false
+ },
+ {
+  "year": 2023,
+  "apps": 315,
+  "apps_50plus": 110,
+  "apps_150plus": 57,
+  "homes": 45973,
+  "partial": false
+ },
+ {
+  "year": 2024,
+  "apps": 292,
+  "apps_50plus": 119,
+  "apps_150plus": 79,
+  "homes": 64862,
+  "partial": false
+ },
+ {
+  "year": 2025,
+  "apps": 273,
+  "apps_50plus": 125,
+  "apps_150plus": 73,
+  "homes": 44863,
+  "partial": false
+ },
+ {
+  "year": 2026,
+  "apps": 163,
+  "apps_50plus": 58,
+  "apps_150plus": 35,
+  "homes": 18548,
+  "partial": true
+ }
+]

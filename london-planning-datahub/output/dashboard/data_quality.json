@@ -1,0 +1,50 @@
+[
+ {
+  "year": 2019,
+  "type_field_pct": 6.8,
+  "developer_on_majors_pct": 12.2,
+  "homes_field_on_majors_pct": 56.0
+ },
+ {
+  "year": 2020,
+  "type_field_pct": 18.1,
+  "developer_on_majors_pct": 10.2,
+  "homes_field_on_majors_pct": 59.2
+ },
+ {
+  "year": 2021,
+  "type_field_pct": 81.7,
+  "developer_on_majors_pct": 34.4,
+  "homes_field_on_majors_pct": 82.6
+ },
+ {
+  "year": 2022,
+  "type_field_pct": 87.9,
+  "developer_on_majors_pct": 38.8,
+  "homes_field_on_majors_pct": 83.0
+ },
+ {
+  "year": 2023,
+  "type_field_pct": 92.0,
+  "developer_on_majors_pct": 34.3,
+  "homes_field_on_majors_pct": 88.3
+ },
+ {
+  "year": 2024,
+  "type_field_pct": 93.1,
+  "developer_on_majors_pct": 33.2,
+  "homes_field_on_majors_pct": 87.0
+ },
+ {
+  "year": 2025,
+  "type_field_pct": 91.8,
+  "developer_on_majors_pct": 33.3,
+  "homes_field_on_majors_pct": 84.6
+ },
+ {
+  "year": 2026,
+  "type_field_pct": 88.5,
+  "developer_on_majors_pct": 26.4,
+  "homes_field_on_majors_pct": 92.6
+ }
+]

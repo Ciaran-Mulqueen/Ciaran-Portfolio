@@ -1,0 +1,58 @@
+[
+ {
+  "year": 2019,
+  "berkeley_median_days": 285.0,
+  "berkeley_decisions": 6,
+  "london_median_days": 157.0,
+  "london_decisions": 81
+ },
+ {
+  "year": 2020,
+  "berkeley_median_days": 157.5,
+  "berkeley_decisions": 4,
+  "london_median_days": 317.0,
+  "london_decisions": 116
+ },
+ {
+  "year": 2021,
+  "berkeley_median_days": 289.0,
+  "berkeley_decisions": 6,
+  "london_median_days": 426.5,
+  "london_decisions": 132
+ },
+ {
+  "year": 2022,
+  "berkeley_median_days": 366.5,
+  "berkeley_decisions": 8,
+  "london_median_days": 391.0,
+  "london_decisions": 128
+ },
+ {
+  "year": 2023,
+  "berkeley_median_days": 209.0,
+  "berkeley_decisions": 7,
+  "london_median_days": 441.5,
+  "london_decisions": 100
+ },
+ {
+  "year": 2024,
+  "berkeley_median_days": 168.0,
+  "berkeley_decisions": 8,
+  "london_median_days": 440.0,
+  "london_decisions": 87
+ },
+ {
+  "year": 2025,
+  "berkeley_median_days": 441.5,
+  "berkeley_decisions": 14,
+  "london_median_days": 389.0,
+  "london_decisions": 98
+ },
+ {
+  "year": 2026,
+  "berkeley_median_days": 165.5,
+  "berkeley_decisions": 2,
+  "london_median_days": 440.5,
+  "london_decisions": 66
+ }
+]
